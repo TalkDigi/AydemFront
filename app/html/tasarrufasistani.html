@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Tasarruf Asistanı</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page saving">
+            <div class="container">
+                <form class="saving-select">
+                    <div class="saving-select-grid">
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="fridge">
+                            <label for="fridge"><i class="icon-fridge"></i><span>Buzdolabı</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="dishes">
+                            <label for="dishes"><i class="icon-dishes"></i><span>Bulaşık Makinesi</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="washing">
+                            <label for="washing"><i class="icon-washing"></i><span>Çamaşır Makinesi</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="dry">
+                            <label for="dry"><i class="icon-dry"></i><span>Çamaşır Kurutma Makinesi</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="tv">
+                            <label for="tv"><i class="icon-tv"></i><span>Televizyon</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="iron">
+                            <label for="iron"><i class="icon-iron"></i><span>Ütü</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="broom">
+                            <label for="broom"><i class="icon-broom"></i><span>Elektrikli Süpürge</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="oven">
+                            <label for="oven"><i class="icon-oven"></i><span>Fırın</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="conditioning">
+                            <label for="conditioning"><i class="icon-conditioning"></i><span>Klima</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="bulb">
+                            <label for="bulb"><i class="icon-bulb"></i><span>Akkor Ampul</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="saving-bulb">
+                            <label for="saving-bulb"><i class="icon-saving-bulb"></i><span>Enerji Tasarruflu Ampul</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="led-bulb">
+                            <label for="led-bulb"><i class="icon-led-bulb"></i><span>Led Lamba</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="kettle">
+                            <label for="kettle"><i class="icon-kettle"></i><span>Kettle</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="microwave">
+                            <label for="microwave"><i class="icon-microwave"></i><span>Mikrodalga Fırın</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="pc">
+                            <label for="pc"><i class="icon-pc"></i><span>Dizüstü Bilgisayar</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="mobile-phone">
+                            <label for="mobile-phone"><i class="icon-mobile-phone"></i><span>Mobil Telefon</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="toast">
+                            <label for="toast"><i class="icon-toast"></i><span>Tost Makinesi</span></label>
+                        </div>
+                        <div class="saving-select-item">
+                            <input type="checkbox" id="heater">
+                            <label for="heater"><i class="icon-heater"></i><span>Elektrikli Isıtıcı</span></label>
+                        </div>
+                    </div>
+                    <button class="button-1 outline" type="submit">Hemen Hesapla <i class="icon-detail"></i></button>
+                </form>
+            </div>
+            <div class="saving-detail container">
+                <h2>Bulaşık Makinesi için</h2>
+                <div class="d-flex">
+                    <button class="button-1 outline mb-4 ms-auto" type="button" data-bs-toggle="modal" data-bs-target="#deptModal">Cihaz Ekle <i class="icon-close" style="transform: rotate(45deg);"></i>
+                </div>
+                </button>
+                <div class="saving-detail-table">
+                    <div class="saving-detail-line">
+                        <div>Elektrik Gücü (Watt)</div>
+                        <div>Cihaz Adeti</div>
+                        <div>Günlük Çalışma Süresi (Saat)</div>
+                        <div>Haftalık Kullanım Sayısı (Adet)</div>
+                        <div>Haftalık Ortalama Tüketim (kWh)</div>
+                        <div>Aylık Çalışma Süresi (Saat)</div>
+                        <div>Aylık Ortalama Tasarruf Oranı</div>
+                        <div>Aylık Ortalama Tasarruf Miktarı (kWh)</div>
+                        <div>Yıllık Ortalama Tasarruf Miktarı (kWh)</div>
+                    </div>
+                    <div class="saving-detail-line">
+                        <div><input type="number" readonly value="510"></div>
+                        <div><input type="number" min="0" value="1"><i class="icon-info"><span>*Bir sayı giriniz.</span></i></div>
+                        <div><input type="number" min="0" step="0.01" value="2.16"><i class="icon-info"><span>*Bir sayı giriniz.</span></i></div>
+                        <div><input type="number" min="0" value="5"><i class="icon-info"><span>*Bir sayı giriniz.</span></i></div>
+                        <div><input type="number" readonly value="5.5"></div>
+                        <div><input type="number" readonly value="21"></div>
+                        <div><input type="text" readonly value="16%"></div>
+                        <div><input type="number" readonly value="4"></div>
+                        <div><input type="number" readonly value="45"></div>
+                    </div>
+                </div>
+                <table>
+                    <tr>
+                        <th>Aylık Ortalama Tüketim (kWh)</th>
+                        <td>24</td>
+                        <th>Aylık Ortalama Tüketim Bedeli (TL)</th>
+                        <td>9.4 TL <i class="icon-check"></i></td>
+                    </tr>
+                    <tr>
+                        <th>Yıllık Ortalama Tüketim (kWh)</th>
+                        <td>24</td>
+                        <th>Aylık Ortalama Tüketim Bedeli (TL)</th>
+                        <td>9.4 TL <i class="icon-check"></i></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="saving-info container">
+                <div class="page-text">
+                    <h3>Tasarruf Önerileri</h3>
+                    <p>Sadece birkaç adımda abonelik işlemlerinizi kolayca tamamlayabilirsiniz.</p>
+                </div>
+                <div class="page-list">
+                    <i class="icon-tv"></i>
+                    <h4>Tasarruf Önerileri</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                    <hr>
+                    <ul>
+                        <li>Enerji verimi yüksek A sınıfı bulaşık makinesi, D sınıfı bulaşık makinesine göre %32, G sınıfına göre ise %48 enerji tasarrufu sağlar.</li>
+                        <li>Bulaşık makinenizin etrafında en az 5 cm boşluk bıraktığınızda, makineniz daha az ısınır ve daha az enerji harcar.</li>
+                        <li>Bulaşık makinenizi, kapasiteyi aşmayacak şekilde, tam dolulukta çalıştırın.</li>
+                        <li>Az miktarda bulaşık yıkarken ekonomik programları tercih edin.</li>
+                        <li>Ön yıkama programlarını sadece gerekli olduğu durumlarda tercih edin.</li>
+                        <li>Bulaşıkları yıkarken suyun sıcaklığını 60 derece yerine 50 derece olarak ayarlarsanız %10 daha az enerji tüketirsiniz.</li>
+                        <li>Makinenizi son durulamadan sonra kapatıp makine kapağını açık bırakarak bulaşıkları kurutursanız daha az enerji tüketirsiniz.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+</body>
+
+</html>

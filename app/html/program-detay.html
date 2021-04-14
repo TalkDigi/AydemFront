@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Sorumluluk Projelerimiz</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item"><a href="#">Hakkımızda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Sorumluluk Projelerimiz</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container project">
+                <div class="project-item mb-3">
+                    <div class="project-nav public-nav">
+                        <button id="project-slide-onePrev" class="prev"><i class="icon-left"></i></button>
+                        <button id="project-slide-oneNext" class="next"><i class="icon-right"></i></button>
+                    </div>
+                    <div id="project-slide-one" class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <div class="splide__slide">
+                                    <div class="caption">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <p>Topluma, ülkemize, çevreye ve gelecek nesillere karşı sorumluluğumuzla ağaçlandırma çalışmalarımızı Aydem Ormanı ile devam ettiriyoruz…</p>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="caption">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <p>Topluma, ülkemize, çevreye ve gelecek nesillere karşı sorumluluğumuzla ağaçlandırma çalışmalarımızı Aydem Ormanı ile devam ettiriyoruz…</p>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="caption">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <p>Topluma, ülkemize, çevreye ve gelecek nesillere karşı sorumluluğumuzla ağaçlandırma çalışmalarımızı Aydem Ormanı ile devam ettiriyoruz…</p>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="caption">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <p>Topluma, ülkemize, çevreye ve gelecek nesillere karşı sorumluluğumuzla ağaçlandırma çalışmalarımızı Aydem Ormanı ile devam ettiriyoruz…</p>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="page-text text-center py-lg-5 mx-auto col-lg-10">
+                    <h3>Proje Açıklaması;</h3>
+                    <p>Topluma, ülkemize, çevreye ve gelecek nesillere karşı sorumluluğumuzla ağaçlandırma çalışmalarımızı Aydem Ormanı ile devam ettiriyoruz. İzmir’de Karakoca Köyü’ndeki Aydem Ormanı’nın yanı sıra ülkemizin farklı şehirlerinde yüz binden fazla genç fidanı toprakla buluşturarak bugünü ve geleceği daha parlak kılmak için çalışıyoruz.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const navSlide = (id, options) => {
+                const splide = new Splide("#" + id, options).mount();
+                document.getElementById(id + "Prev").addEventListener("click", () => {
+                    splide.go("-1");
+                });
+                document.getElementById(id + "Next").addEventListener("click", () => {
+                    splide.go("+1");
+                });
+            };
+            window.addEventListener("load", function () {
+                navSlide("project-slide-one", {
+                    perPage: 1,
+                    arrows: false,
+                    rewindSpeed: 900,
+                });
+            });
+        });
+    </script>
+</body>
+
+</html>

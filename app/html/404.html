@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Aradığınız Sayfa Bulunamadı!</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Aradığınız sayfaya ulaşılamadı.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container page-center">
+                <h3>Aradığınız Sayfa Bulunamadı!</h3>
+                <p>Aradığınız sayfaya ulaşılamadı.</p>
+                <picture class="d-flex justify-content-center my-5">
+                    <img src="images/404.png" alt="" style="mix-blend-mode: multiply;">
+                </picture>
+                <div class="bar">
+                    <p>Aradığınız sayfaya ulaşılamadı. Hatanın nedeni yanlış sayfa adresi girmeniz ya da ulaşmaya çalıştığınız sayfanın adresinin değişmesi olabilir.</p>
+                    <a class="button-1 outline" href="#">Anasayfaya Dön <i class="icon-detail"></i></a>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+</body>
+
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Tüm İşlemleriniz Artık Online’da</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item"><a href="#">Bizden Haberler</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Tüm İşlemleriniz Artık Online’da</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container event">
+                <div class="event-content">
+                    <div id="event-slide" class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="event-text">
+                        <h3>Ekonomist Dergisi’nin yayınladığı Anadolu’nun En Büyük 500 Şirketi listesinde 2 basamak yükselerek 7’inci sırada yerimizi aldık.</h3>
+                        <p>Ekonomist Dergisi’nin her yıl düzenlediği, merkezleri Ankara, İzmir ve İstanbul dışındaki kentlerde bulunan şirketlerin 2019 verileriyle hazırlanan, Anadolu’nun En Büyük 500 Şirketi araştırmasında, 2 basamak yükselerek 7’inci sırada yerimizi aldık.</p>
+                        <p>Enerjileriyle bu başarının asıl kaynağı olan çalışma arkadaşlarımıza sonsuz teşekkürler.</p>
+                        <p>Tüm Listeye Ulaşmak için Lütfen <a href="/">Tıklayın.</a></p>
+                    </div>
+                </div>
+                <div class="event-social">
+                    <div class="social">
+                        <span>Bu içeriği paylaş</span>
+                        <a href="/"><i class="icon-facebook"></i></a>
+                        <a href="/"><i class="icon-instagram"></i></a>
+                        <a href="/"><i class="icon-twitter"></i></a>
+                        <a href="/"><i class="icon-linkedin"></i></a>
+                    </div>
+                    <div class="date">26.07.2019 Pazartesi 09.45</div>
+                </div>
+                <div class="splide-header">
+                    <div class="w-100">
+                        <h2>Diğer Haberler</h2>
+                    </div>
+                    <div class="splide-nav">
+                        <button id="newsGalleryPrev" class="prev"><i class="icon-left"></i></button>
+                        <button id="newsGalleryNext" class="next"><i class="icon-right"></i></button>
+                        <a href="#">Tüm Haberleri Gör<i class="icon-detail"></i></a>
+                    </div>
+                </div>
+                <div id="newsGallery" class="splide">
+                    <div class="splide__track">
+                        <div class="splide__list">
+                            <div class="splide__slide">
+                                <div class="ticket"><img src="images/svg/logo-white.svg" class="me-auto" width="140" height="80" loading="lazy"></div>
+                                <img src="https://picsum.photos/270/173" alt="">
+                                <div class="splide__caption">
+                                    <span>DUYURU</span>
+                                    <h4>İşlemleriniz artık Online’da </h4>
+                                    <span>11.02.2021</span>
+                                    <p>Çözüm odaklı hizmet anlayışını ve müşteri memnuniyetini ön planda..</p>
+                                    <a class="button-1" href="#">Detaylar <i class="icon-detail"></i></a>
+                                </div>
+                            </div>
+                            <div class="splide__slide">
+                                <div class="ticket"><img src="images/svg/logo-white.svg" class="me-auto" width="140" height="80" loading="lazy"></div>
+                                <img src="https://picsum.photos/270/173" alt="">
+                                <div class="splide__caption">
+                                    <span>DUYURU</span>
+                                    <h4>İşlemleriniz artık Online’da Lorem ipsum dolor sit.</h4>
+                                    <span>11.02.2021</span>
+                                    <p>Çözüm odaklı hizmet anlayışını ve müşteri memnuniyetini ön planda..</p>
+                                    <a class="button-1" href="#">Detaylar <i class="icon-detail"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/news.min.js"></script>
+</body>
+
+</html>

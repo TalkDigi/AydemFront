@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Müşteri İlişkileri Merkezleri</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="mims">
+                <div class="mims-map">
+                    <div class="container mims-map-header">
+                        <h2>Size en yakın MİM
+                            <small>Lütfen Konum Seçin</small>
+                        </h2>
+                        <div class="d-flex">
+                            <select class="form-select" id="mapCity" aria-label="Default select example">
+                                <option value="0" selected>İl Seçiniz</option>
+                            </select>
+                            <select class="form-select" id="mapTown" aria-label="Default select example">
+                                <option value="0" selected>İlçe Seçiniz</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div id="map"></div>
+                </div>
+                <div class="container">
+                    <div class="mims-grid" id="mapAccordion">
+                        <!-- <div class="mims-grid-item">
+                            <h3>Karşıyaka<small>Müşteri İlişkileri Merkezi</small></h3>
+                            <hr>
+                            <address>
+                                Bostanlı Mah. Cemal Gürsel Cad. N:79/A
+                            </address>
+                            <p>Hafta içi : <span>08.00 - 18.00</span></p>
+                            <div class="d-flex mt-auto">
+                                <a href="tel:08508000186"><i class="icon-phone1"></i>0850 800 0 186</a>
+                                <a href="#"><i class="icon-location"></i>Yol Tarifi Alın</a>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="https://api-maps.yandex.ru/2.1/?lang=tr_TR" type="text/javascript"></script>
+    <script src="./js/map.min.js"></script>
+    <script src="./js/page.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,5822 @@
+[
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001757",
+        "townName": "ALADAĞ"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001219",
+        "townName": "CEYHAN"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001329",
+        "townName": "FEKE"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001443",
+        "townName": "KARATAŞ"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001437",
+        "townName": "KARAİSALI"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001486",
+        "townName": "KOZAN"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001580",
+        "townName": "POZANTI"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000002032",
+        "townName": "SARIÇAM"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001588",
+        "townName": "SAİMBEYLİ"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001104",
+        "townName": "SEYHAN"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001687",
+        "townName": "TUFANBEYLİ"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001734",
+        "townName": "YUMURTALIK"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001748",
+        "townName": "YÜREĞİR"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000002033",
+        "townName": "ÇUKUROVA"
+    },
+    {
+        "cityCode": "01",
+        "cityName": "Adana",
+        "townCode": "000000001806",
+        "townName": "İMAMOĞLU"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001182",
+        "townName": "BESNİ"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001347",
+        "townName": "GERGER"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001354",
+        "townName": "GÖLBAŞI"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001425",
+        "townName": "KAHTA"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001105",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001592",
+        "townName": "SAMSAT"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001985",
+        "townName": "SİNCİK"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001989",
+        "townName": "TUT"
+    },
+    {
+        "cityCode": "02",
+        "cityName": "Adıyaman",
+        "townCode": "000000001246",
+        "townName": "ÇELİKHAN"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001773",
+        "townName": "BAYAT"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001771",
+        "townName": "BAŞMAKÇI"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001200",
+        "townName": "BOLVADİN"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001267",
+        "townName": "DAZKIRI"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001281",
+        "townName": "DİNAR"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001306",
+        "townName": "EMİRDAĞ"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001923",
+        "townName": "EVCİLER"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001944",
+        "townName": "HOCALAR"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001961",
+        "townName": "KIZILÖREN"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001108",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001594",
+        "townName": "SANDIKLI"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001639",
+        "townName": "SULTANDAĞI"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001626",
+        "townName": "SİNANPAŞA"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001239",
+        "townName": "ÇAY"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001906",
+        "townName": "ÇOBANLAR"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001404",
+        "townName": "İHSANİYE"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001809",
+        "townName": "İSCEHİSAR"
+    },
+    {
+        "cityCode": "03",
+        "cityName": "Afyonkarahisar",
+        "townCode": "000000001664",
+        "townName": "ŞUHUT"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001287",
+        "townName": "DOĞUBAYAZIT"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001283",
+        "townName": "DİYADİN"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001301",
+        "townName": "ELEŞKİRT"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001379",
+        "townName": "HAMUR"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001111",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001568",
+        "townName": "PATNOS"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001667",
+        "townName": "TAŞLIÇAY"
+    },
+    {
+        "cityCode": "04",
+        "cityName": "Agri",
+        "townCode": "000000001691",
+        "townName": "TUTAK"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001363",
+        "townName": "GÖYNÜCEK"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001368",
+        "townName": "GÜMÜŞHACIKÖY"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001938",
+        "townName": "HAMAMÖZÜ"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001134",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001524",
+        "townName": "MERZİFON"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001641",
+        "townName": "SULUOVA"
+    },
+    {
+        "cityCode": "05",
+        "cityName": "Amasya",
+        "townCode": "000000001668",
+        "townName": "TAŞOVA"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001872",
+        "townName": "AKYURT"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001130",
+        "townName": "ALTINDAĞ"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001157",
+        "townName": "AYAŞ"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001167",
+        "townName": "BALA"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001187",
+        "townName": "BEYPAZARI"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001302",
+        "townName": "ELMADAĞ"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001922",
+        "townName": "ETİMESGUT"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001924",
+        "townName": "EVREN"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001744",
+        "townName": "GÖLBAŞI"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001365",
+        "townName": "GÜDÜL"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001387",
+        "townName": "HAYMANA"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001427",
+        "townName": "KALECİK"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001815",
+        "townName": "KAZAN"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001745",
+        "townName": "KEÇİÖREN"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001473",
+        "townName": "KIZILCAHAMAM"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001746",
+        "townName": "MAMAK"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001539",
+        "townName": "NALLIHAN"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001578",
+        "townName": "POLATLI"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000002034",
+        "townName": "PURSAKLAR"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001747",
+        "townName": "SİNCAN"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001723",
+        "townName": "YENİMAHALLE"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001227",
+        "townName": "ÇAMLIDERE"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001231",
+        "townName": "ÇANKAYA"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001260",
+        "townName": "ÇUBUK"
+    },
+    {
+        "cityCode": "06",
+        "cityName": "Ankara",
+        "townCode": "000000001658",
+        "townName": "ŞEREFLİKOÇHİSAR"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001121",
+        "townName": "AKSEKİ"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000002035",
+        "townName": "AKSU"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001126",
+        "townName": "ALANYA"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001811",
+        "townName": "DEMRE"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000002036",
+        "townName": "DÖŞEMEALTI"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001303",
+        "townName": "ELMALI"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001333",
+        "townName": "FİNİKE"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001337",
+        "townName": "GAZİPAŞA"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001370",
+        "townName": "GÜNDOĞMUŞ"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001451",
+        "townName": "KAŞ"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001959",
+        "townName": "KEMER"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000002037",
+        "townName": "KEPEZ"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000002038",
+        "townName": "KONYAALTI"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001483",
+        "townName": "KORKUTELİ"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001492",
+        "townName": "KUMLUCA"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001512",
+        "townName": "MANAVGAT"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000002039",
+        "townName": "MURATPAŞA"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001616",
+        "townName": "SERİK"
+    },
+    {
+        "cityCode": "07",
+        "cityName": "Antalya",
+        "townCode": "000000001946",
+        "townName": "İBRADI"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001145",
+        "townName": "ARDANUÇ"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001147",
+        "townName": "ARHAVİ"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001202",
+        "townName": "BORÇKA"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001395",
+        "townName": "HOPA"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001152",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001828",
+        "townName": "MURGUL"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001736",
+        "townName": "YUSUFELİ"
+    },
+    {
+        "cityCode": "08",
+        "cityName": "Artvin",
+        "townCode": "000000001653",
+        "townName": "ŞAVŞAT"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001206",
+        "townName": "BOZDOĞAN"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001781",
+        "townName": "BUHARKENT"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000002000",
+        "townName": "DİDİM"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000002076",
+        "townName": "EFELER"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001348",
+        "townName": "GERMENCİK"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001435",
+        "townName": "KARACASU"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001957",
+        "townName": "KARPUZLU"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001479",
+        "townName": "KOÇARLI"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001498",
+        "townName": "KUYUCAK"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001497",
+        "townName": "KUŞADASI"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001968",
+        "townName": "KÖŞK"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001542",
+        "townName": "NAZİLLİ"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001640",
+        "townName": "SULTANHİSAR"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001637",
+        "townName": "SÖKE"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001724",
+        "townName": "YENİPAZAR"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001256",
+        "townName": "ÇİNE"
+    },
+    {
+        "cityCode": "09",
+        "cityName": "Aydın",
+        "townCode": "000000001807",
+        "townName": "İNCİRLİOVA"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000002077",
+        "townName": "ALTIEYLÜL"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001161",
+        "townName": "AYVALIK"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001169",
+        "townName": "BALYA"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001171",
+        "townName": "BANDIRMA"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001216",
+        "townName": "BURHANİYE"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001191",
+        "townName": "BİGADİÇ"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001291",
+        "townName": "DURSUNBEY"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001294",
+        "townName": "EDREMİT"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001310",
+        "townName": "ERDEK"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001928",
+        "townName": "GÖMEÇ"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001360",
+        "townName": "GÖNEN"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001384",
+        "townName": "HAVRAN"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000002078",
+        "townName": "KARESİ"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001462",
+        "townName": "KEPSUT"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001514",
+        "townName": "MANYAS"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001824",
+        "townName": "MARMARA"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001608",
+        "townName": "SAVAŞTEPE"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001619",
+        "townName": "SINDIRGI"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001644",
+        "townName": "SUSURLUK"
+    },
+    {
+        "cityCode": "10",
+        "cityName": "Balıkesir",
+        "townCode": "000000001418",
+        "townName": "İVRİNDİ"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001210",
+        "townName": "BOZÜYÜK"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001359",
+        "townName": "GÖLPAZARI"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001192",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001559",
+        "townName": "OSMANELİ"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001571",
+        "townName": "PAZARYERİ"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001636",
+        "townName": "SÖĞÜT"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001857",
+        "townName": "YENİPAZAR"
+    },
+    {
+        "cityCode": "11",
+        "cityName": "Bilecik",
+        "townCode": "000000001948",
+        "townName": "İNHİSAR"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001750",
+        "townName": "ADAKLI"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001344",
+        "townName": "GENÇ"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001446",
+        "townName": "KARLIOVA"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001475",
+        "townName": "KİĞI"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001193",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001633",
+        "townName": "SOLHAN"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001855",
+        "townName": "YAYLADERE"
+    },
+    {
+        "cityCode": "12",
+        "cityName": "Bingöl",
+        "townCode": "000000001996",
+        "townName": "YEDİSU"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001106",
+        "townName": "ADİLCEVAZ"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001112",
+        "townName": "AHLAT"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001798",
+        "townName": "GÜROYMAK"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001394",
+        "townName": "HİZAN"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001196",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001537",
+        "townName": "MUTKİ"
+    },
+    {
+        "cityCode": "13",
+        "cityName": "Bitlis",
+        "townCode": "000000001669",
+        "townName": "TATVAN"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001916",
+        "townName": "DÖRTDİVAN"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001346",
+        "townName": "GEREDE"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001364",
+        "townName": "GÖYNÜK"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001466",
+        "townName": "KIBRISCIK"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001522",
+        "townName": "MENGEN"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001199",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001531",
+        "townName": "MUDURNU"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001610",
+        "townName": "SEBEN"
+    },
+    {
+        "cityCode": "14",
+        "cityName": "Bolu",
+        "townCode": "000000001997",
+        "townName": "YENİÇAĞA"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001874",
+        "townName": "ALTINYAYLA"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001109",
+        "townName": "AĞLASUN"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001211",
+        "townName": "BUCAK"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001357",
+        "townName": "GÖLHİSAR"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001813",
+        "townName": "KARAMANLI"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001816",
+        "townName": "KEMER"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001215",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001672",
+        "townName": "TEFENNİ"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001728",
+        "townName": "YEŞİLOVA"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001899",
+        "townName": "ÇAVDIR"
+    },
+    {
+        "cityCode": "15",
+        "cityName": "Burdur",
+        "townCode": "000000001903",
+        "townName": "ÇELTİKÇİ"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001783",
+        "townName": "BÜYÜKORHAN"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001343",
+        "townName": "GEMLİK"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001935",
+        "townName": "GÜRSU"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001799",
+        "townName": "HARMANCIK"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001434",
+        "townName": "KARACABEY"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001457",
+        "townName": "KELES"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001960",
+        "townName": "KESTEL"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001530",
+        "townName": "MUDANYA"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001535",
+        "townName": "MUSTAFAKEMALPAŞA"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001829",
+        "townName": "NİLÜFER"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001553",
+        "townName": "ORHANELİ"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001554",
+        "townName": "ORHANGAZİ"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001832",
+        "townName": "OSMANGAZİ"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001725",
+        "townName": "YENİŞEHİR"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001859",
+        "townName": "YILDIRIM"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001411",
+        "townName": "İNEGÖL"
+    },
+    {
+        "cityCode": "16",
+        "cityName": "Bursa",
+        "townCode": "000000001420",
+        "townName": "İZNİK"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001160",
+        "townName": "AYVACIK"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001180",
+        "townName": "BAYRAMİÇ"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001205",
+        "townName": "BOZCAADA"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001190",
+        "townName": "BİGA"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001293",
+        "townName": "ECEABAT"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001326",
+        "townName": "EZİNE"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001340",
+        "townName": "GELİBOLU"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001408",
+        "townName": "GÖKÇEADA"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001503",
+        "townName": "LAPSEKİ"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001230",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001722",
+        "townName": "YENİCE"
+    },
+    {
+        "cityCode": "17",
+        "cityName": "Çanakkale",
+        "townCode": "000000001229",
+        "townName": "ÇAN"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001765",
+        "townName": "ATKARACALAR"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001885",
+        "townName": "BAYRAMÖREN"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001300",
+        "townName": "ELDİVAN"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001399",
+        "townName": "ILGAZ"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001817",
+        "townName": "KIZILIRMAK"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001963",
+        "townName": "KORGUN"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001494",
+        "townName": "KURŞUNLU"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001232",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001555",
+        "townName": "ORTA"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001718",
+        "townName": "YAPRAKLI"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001248",
+        "townName": "ÇERKEŞ"
+    },
+    {
+        "cityCode": "18",
+        "cityName": "Çankırı",
+        "townCode": "000000001649",
+        "townName": "ŞABANÖZÜ"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001124",
+        "townName": "ALACA"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001177",
+        "townName": "BAYAT"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001778",
+        "townName": "BOĞAZKALE"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001911",
+        "townName": "DODURGA"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001445",
+        "townName": "KARGI"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001972",
+        "townName": "LAÇİN"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001520",
+        "townName": "MECİTÖZÜ"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001259",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001556",
+        "townName": "ORTAKÖY"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001558",
+        "townName": "OSMANCIK"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001976",
+        "townName": "OĞUZLAR"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001642",
+        "townName": "SUNGURLU"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001850",
+        "townName": "UĞURLUDAĞ"
+    },
+    {
+        "cityCode": "19",
+        "cityName": "Çorum",
+        "townCode": "000000001414",
+        "townName": "İSKİLİP"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001102",
+        "townName": "ACIPAYAM"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001769",
+        "townName": "BABADAĞ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001881",
+        "townName": "BAKLAN"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001774",
+        "townName": "BEKİLLİ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001888",
+        "townName": "BEYAĞAÇ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001889",
+        "townName": "BOZKURT"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001214",
+        "townName": "BULDAN"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001371",
+        "townName": "GÜNEY"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001803",
+        "townName": "HONAZ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001426",
+        "townName": "KALE"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000002079",
+        "townName": "MERKEZEFENDİ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001871",
+        "townName": "PAMUKKALE"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001597",
+        "townName": "SARAYKÖY"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001840",
+        "townName": "SERİNHİSAR"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001670",
+        "townName": "TAVAS"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001224",
+        "townName": "ÇAL"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001226",
+        "townName": "ÇAMELİ"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001233",
+        "townName": "ÇARDAK"
+    },
+    {
+        "cityCode": "20",
+        "cityName": "Denizli",
+        "townCode": "000000001257",
+        "townName": "ÇİVRİL"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000002040",
+        "townName": "BAĞLAR"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001195",
+        "townName": "BİSMİL"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001278",
+        "townName": "DİCLE"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001315",
+        "townName": "ERGANİ"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001791",
+        "townName": "EĞİL"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001381",
+        "townName": "HANİ"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001389",
+        "townName": "HAZRO"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000002041",
+        "townName": "KAYAPINAR"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001962",
+        "townName": "KOCAKÖY"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001490",
+        "townName": "KULP"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001504",
+        "townName": "LİCE"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000002042",
+        "townName": "SUR"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001624",
+        "townName": "SİLVAN"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000002043",
+        "townName": "YENİŞEHİR"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001249",
+        "townName": "ÇERMİK"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001253",
+        "townName": "ÇINAR"
+    },
+    {
+        "cityCode": "21",
+        "cityName": "Diyarbakır",
+        "townCode": "000000001263",
+        "townName": "ÇÜNGÜŞ"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001307",
+        "townName": "ENEZ"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001385",
+        "townName": "HAVSA"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001464",
+        "townName": "KEŞAN"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001502",
+        "townName": "LALAPAŞA"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001295",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001523",
+        "townName": "MERİÇ"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001988",
+        "townName": "SÜLOĞLU"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001705",
+        "townName": "UZUNKÖPRÜ"
+    },
+    {
+        "cityCode": "22",
+        "cityName": "Edirne",
+        "townCode": "000000001412",
+        "townName": "İPSALA"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001873",
+        "townName": "ALACAKAYA"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001762",
+        "townName": "ARICAK"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001110",
+        "townName": "AĞIN"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001173",
+        "townName": "BASKİL"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001438",
+        "townName": "KARAKOÇAN"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001455",
+        "townName": "KEBAN"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001820",
+        "townName": "KOVANCILAR"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001506",
+        "townName": "MADEN"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001298",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001566",
+        "townName": "PALU"
+    },
+    {
+        "cityCode": "23",
+        "cityName": "Elazığ",
+        "townCode": "000000001631",
+        "townName": "SİVRİCE"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001459",
+        "townName": "KEMAH"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001460",
+        "townName": "KEMALİYE"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001318",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001977",
+        "townName": "OTLUKBELİ"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001583",
+        "townName": "REFAHİYE"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001675",
+        "townName": "TERCAN"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001243",
+        "townName": "ÇAYIRLI"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001853",
+        "townName": "ÜZÜMLÜ"
+    },
+    {
+        "cityCode": "24",
+        "cityName": "Erzincan",
+        "townCode": "000000001406",
+        "townName": "İLİÇ"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001945",
+        "townName": "AZİZİYE"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001153",
+        "townName": "AŞKALE"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001392",
+        "townName": "HINIS"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001396",
+        "townName": "HORASAN"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001444",
+        "townName": "KARAYAZI"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001812",
+        "townName": "KARAÇOBAN"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001967",
+        "townName": "KÖPRÜKÖY"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001540",
+        "townName": "NARMAN"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001550",
+        "townName": "OLTU"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001551",
+        "townName": "OLUR"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000002044",
+        "townName": "PALANDÖKEN"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001567",
+        "townName": "PASİNLER"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001865",
+        "townName": "PAZARYOLU"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001674",
+        "townName": "TEKMAN"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001683",
+        "townName": "TORTUM"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001851",
+        "townName": "UZUNDERE"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000002045",
+        "townName": "YAKUTİYE"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001235",
+        "townName": "ÇAT"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001416",
+        "townName": "İSPİR"
+    },
+    {
+        "cityCode": "25",
+        "cityName": "Erzurum",
+        "townCode": "000000001657",
+        "townName": "ŞENKAYA"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001759",
+        "townName": "ALPU"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001777",
+        "townName": "BEYLİKOVA"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001934",
+        "townName": "GÜNYÜZÜ"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001939",
+        "townName": "HAN"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001508",
+        "townName": "MAHMUDİYE"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001973",
+        "townName": "MİHALGAZİ"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001527",
+        "townName": "MİHALIÇÇIK"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000002046",
+        "townName": "ODUNPAZARI"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001599",
+        "townName": "SARICAKAYA"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001618",
+        "townName": "SEYİTGAZİ"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001632",
+        "townName": "SİVRİHİSAR"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000002047",
+        "townName": "TEPEBAŞI"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001255",
+        "townName": "ÇİFTELER"
+    },
+    {
+        "cityCode": "26",
+        "cityName": "Eskişehir",
+        "townCode": "000000001808",
+        "townName": "İNÖNÜ"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001139",
+        "townName": "ARABAN"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001956",
+        "townName": "KARKAMIŞ"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001974",
+        "townName": "NURDAĞI"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001546",
+        "townName": "NİZİP"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001549",
+        "townName": "OĞUZELİ"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001720",
+        "townName": "YAVUZELİ"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001415",
+        "townName": "İSLAHİYE"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001841",
+        "townName": "ŞAHİNBEY"
+    },
+    {
+        "cityCode": "27",
+        "cityName": "Gaziantep",
+        "townCode": "000000001844",
+        "townName": "ŞEHİTKAMİL"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001133",
+        "townName": "ALUCRA"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001212",
+        "townName": "BULANCAK"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001272",
+        "townName": "DERELİ"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001912",
+        "townName": "DOĞANKENT"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001320",
+        "townName": "ESPİYE"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001324",
+        "townName": "EYNESİL"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001361",
+        "townName": "GÖRELE"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001930",
+        "townName": "GÜCE"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001465",
+        "townName": "KEŞAP"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001352",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001837",
+        "townName": "PİRAZİZ"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001678",
+        "townName": "TİREBOLU"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001854",
+        "townName": "YAĞLIDERE"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001893",
+        "townName": "ÇAMOLUK"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001894",
+        "townName": "ÇANAKÇI"
+    },
+    {
+        "cityCode": "28",
+        "cityName": "Giresun",
+        "townCode": "000000001654",
+        "townName": "ŞEBİNKARAHİSAR"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001458",
+        "townName": "KELKİT"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001822",
+        "townName": "KÖSE"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001971",
+        "townName": "KÜRTÜN"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001369",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001684",
+        "townName": "TORUL"
+    },
+    {
+        "cityCode": "29",
+        "cityName": "Gümüşhane",
+        "townCode": "000000001660",
+        "townName": "ŞİRAN"
+    },
+    {
+        "cityCode": "30",
+        "cityName": "Hakkari",
+        "townCode": "000000001377",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "30",
+        "cityName": "Hakkari",
+        "townCode": "000000001737",
+        "townName": "YÜKSEKOVA"
+    },
+    {
+        "cityCode": "30",
+        "cityName": "Hakkari",
+        "townCode": "000000001261",
+        "townName": "ÇUKURCA"
+    },
+    {
+        "cityCode": "30",
+        "cityName": "Hakkari",
+        "townCode": "000000001656",
+        "townName": "ŞEMDİNLİ"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001131",
+        "townName": "ALTINÖZÜ"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000002080",
+        "townName": "ANTAKYA"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000002081",
+        "townName": "ARSUZ"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001887",
+        "townName": "BELEN"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000002082",
+        "townName": "DEFNE"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001289",
+        "townName": "DÖRTYOL"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001792",
+        "townName": "ERZİN"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001382",
+        "townName": "HASSA"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001468",
+        "townName": "KIRIKHAN"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001970",
+        "townName": "KUMLU"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000002083",
+        "townName": "PAYAS"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001585",
+        "townName": "REYHANLI"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001591",
+        "townName": "SAMANDAĞ"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001721",
+        "townName": "YAYLADAĞI"
+    },
+    {
+        "cityCode": "31",
+        "cityName": "Hatay",
+        "townCode": "000000001413",
+        "townName": "İSKENDERUN"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001755",
+        "townName": "AKSU"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001154",
+        "townName": "ATABEY"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001297",
+        "townName": "EĞİRDİR"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001341",
+        "townName": "GELENDOST"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001929",
+        "townName": "GÖNEN"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001456",
+        "townName": "KEÇİBORLU"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001401",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001615",
+        "townName": "SENİRKENT"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001648",
+        "townName": "SÜTÇÜLER"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001699",
+        "townName": "ULUBORLU"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001717",
+        "townName": "YALVAÇ"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000002001",
+        "townName": "YENİŞARBADEMLİ"
+    },
+    {
+        "cityCode": "32",
+        "cityName": "Isparta",
+        "townCode": "000000001651",
+        "townName": "ŞARKİKARAAĞAÇ"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000002064",
+        "townName": "AKDENİZ"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001135",
+        "townName": "ANAMUR"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001766",
+        "townName": "AYDINCIK"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001779",
+        "townName": "BOZYAZI"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001311",
+        "townName": "ERDEMLİ"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001366",
+        "townName": "GÜLNAR"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000002065",
+        "townName": "MEZİTLİ"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001536",
+        "townName": "MUT"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001621",
+        "townName": "SİLİFKE"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001665",
+        "townName": "TARSUS"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000002066",
+        "townName": "TOROSLAR"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000002067",
+        "townName": "YENİŞEHİR"
+    },
+    {
+        "cityCode": "33",
+        "cityName": "İçel",
+        "townCode": "000000001892",
+        "townName": "ÇAMLIYAYLA"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001103",
+        "townName": "ADALAR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002048",
+        "townName": "ARNAVUTKÖY"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002049",
+        "townName": "ATAŞEHİR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002003",
+        "townName": "AVCILAR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002005",
+        "townName": "BAHÇELİEVLER"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001166",
+        "townName": "BAKIRKÖY"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001886",
+        "townName": "BAYRAMPAŞA"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002004",
+        "townName": "BAĞCILAR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002050",
+        "townName": "BAŞAKŞEHİR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001185",
+        "townName": "BEYKOZ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002051",
+        "townName": "BEYLİKDÜZÜ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001186",
+        "townName": "BEYOĞLU"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001183",
+        "townName": "BEŞİKTAŞ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001782",
+        "townName": "BÜYÜKÇEKMECE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002016",
+        "townName": "ESENLER"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002053",
+        "townName": "ESENYURT"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001325",
+        "townName": "EYÜP"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001327",
+        "townName": "FATİH"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001336",
+        "townName": "GAZİOSMANPAŞA"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002010",
+        "townName": "GÜNGÖREN"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001421",
+        "townName": "KADIKÖY"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001449",
+        "townName": "KARTAL"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001810",
+        "townName": "KAĞITHANE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001823",
+        "townName": "KÜÇÜKÇEKMECE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002012",
+        "townName": "MALTEPE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001835",
+        "townName": "PENDİK"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002054",
+        "townName": "SANCAKTEPE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001604",
+        "townName": "SARIYER"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002014",
+        "townName": "SULTANBEYLİ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002055",
+        "townName": "SULTANGAZİ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001622",
+        "townName": "SİLİVRİ"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002015",
+        "townName": "TUZLA"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001739",
+        "townName": "ZEYTİNBURNU"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001237",
+        "townName": "ÇATALCA"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000002052",
+        "townName": "ÇEKMEKÖY"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001852",
+        "townName": "ÜMRANİYE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001708",
+        "townName": "ÜSKÜDAR"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001659",
+        "townName": "ŞİLE"
+    },
+    {
+        "cityCode": "34",
+        "cityName": "İstanbul",
+        "townCode": "000000001663",
+        "townName": "ŞİŞLİ"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001128",
+        "townName": "ALİAĞA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002006",
+        "townName": "BALÇOVA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001178",
+        "townName": "BAYINDIR"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002056",
+        "townName": "BAYRAKLI"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001181",
+        "townName": "BERGAMA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001776",
+        "townName": "BEYDAĞ"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001203",
+        "townName": "BORNOVA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001780",
+        "townName": "BUCA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001280",
+        "townName": "DİKİLİ"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001334",
+        "townName": "FOÇA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002009",
+        "townName": "GAZİEMİR"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002018",
+        "townName": "GÜZELBAHÇE"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002057",
+        "townName": "KARABAĞLAR"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001432",
+        "townName": "KARABURUN"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001448",
+        "townName": "KARŞIYAKA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001461",
+        "townName": "KEMALPAŞA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001467",
+        "townName": "KINIK"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001819",
+        "townName": "KONAK"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001477",
+        "townName": "KİRAZ"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001826",
+        "townName": "MENDERES"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001521",
+        "townName": "MENEMEN"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002013",
+        "townName": "NARLIDERE"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001611",
+        "townName": "SEFERİHİSAR"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001612",
+        "townName": "SELÇUK"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001682",
+        "townName": "TORBALI"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001677",
+        "townName": "TİRE"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001703",
+        "townName": "URLA"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001251",
+        "townName": "ÇEŞME"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000002007",
+        "townName": "ÇİĞLİ"
+    },
+    {
+        "cityCode": "35",
+        "cityName": "İzmir",
+        "townCode": "000000001563",
+        "townName": "ÖDEMİŞ"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001756",
+        "townName": "AKYAKA"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001149",
+        "townName": "ARPAÇAY"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001279",
+        "townName": "DİGOR"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001424",
+        "townName": "KAĞIZMAN"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001447",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001601",
+        "townName": "SARIKAMIŞ"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001614",
+        "townName": "SELİM"
+    },
+    {
+        "cityCode": "36",
+        "cityName": "Kars",
+        "townCode": "000000001645",
+        "townName": "SUSUZ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001101",
+        "townName": "ABANA"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001140",
+        "townName": "ARAÇ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001162",
+        "townName": "AZDAVAY"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001867",
+        "townName": "AĞLI"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001208",
+        "townName": "BOZKURT"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001221",
+        "townName": "CİDE"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001264",
+        "townName": "DADAY"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001277",
+        "townName": "DEVREKANİ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001915",
+        "townName": "DOĞANYURT"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001940",
+        "townName": "HANÖNÜ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001499",
+        "townName": "KÜRE"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001450",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001836",
+        "townName": "PINARBAŞI"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001984",
+        "townName": "SEYDİLER"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001666",
+        "townName": "TAŞKÖPRÜ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001685",
+        "townName": "TOSYA"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001238",
+        "townName": "ÇATALZEYTİN"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001805",
+        "townName": "İHSANGAZİ"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001410",
+        "townName": "İNEBOLU"
+    },
+    {
+        "cityCode": "37",
+        "cityName": "Kastamonu",
+        "townCode": "000000001845",
+        "townName": "ŞENPAZAR"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001752",
+        "townName": "AKKIŞLA"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001218",
+        "townName": "BÜNYAN"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001275",
+        "townName": "DEVELİ"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001330",
+        "townName": "FELAHİYE"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001936",
+        "townName": "HACILAR"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001863",
+        "townName": "KOCASİNAN"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001864",
+        "townName": "MELİKGAZİ"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001576",
+        "townName": "PINARBAŞI"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001603",
+        "townName": "SARIOĞLAN"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001605",
+        "townName": "SARIZ"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001846",
+        "townName": "TALAS"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001680",
+        "townName": "TOMARZA"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001715",
+        "townName": "YAHYALI"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001727",
+        "townName": "YEŞİLHİSAR"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001978",
+        "townName": "ÖZVATAN"
+    },
+    {
+        "cityCode": "38",
+        "cityName": "Kayseri",
+        "townCode": "000000001409",
+        "townName": "İNCESU"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001163",
+        "townName": "BABAESKİ"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001270",
+        "townName": "DEMİRKÖY"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001480",
+        "townName": "KOFÇAZ"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001505",
+        "townName": "LÜLEBURGAZ"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001471",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001572",
+        "townName": "PEHLİVANKÖY"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001577",
+        "townName": "PINARHİSAR"
+    },
+    {
+        "cityCode": "39",
+        "cityName": "Kırklareli",
+        "townCode": "000000001714",
+        "townName": "VİZE"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001754",
+        "townName": "AKPINAR"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001869",
+        "townName": "AKÇAKENT"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001890",
+        "townName": "BOZTEPE"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001429",
+        "townName": "KAMAN"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001472",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001529",
+        "townName": "MUCUR"
+    },
+    {
+        "cityCode": "40",
+        "cityName": "Kırşehir",
+        "townCode": "000000001254",
+        "townName": "ÇİÇEKDAĞI"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002058",
+        "townName": "BAŞİSKELE"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002060",
+        "townName": "DARICA"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002030",
+        "townName": "DERİNCE"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002061",
+        "townName": "DİLOVASI"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000001338",
+        "townName": "GEBZE"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000001355",
+        "townName": "GÖLCÜK"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000001430",
+        "townName": "KANDIRA"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000001440",
+        "townName": "KARAMÜRSEL"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002063",
+        "townName": "KARTEPE"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000001821",
+        "townName": "KÖRFEZ"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002059",
+        "townName": "ÇAYIROVA"
+    },
+    {
+        "cityCode": "41",
+        "cityName": "Kocaeli",
+        "townCode": "000000002062",
+        "townName": "İZMİT"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001868",
+        "townName": "AHIRLI"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001753",
+        "townName": "AKÖREN"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001122",
+        "townName": "AKŞEHİR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001760",
+        "townName": "ALTINEKİN"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001188",
+        "townName": "BEYŞEHİR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001207",
+        "townName": "BOZKIR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001222",
+        "townName": "CİHANBEYLİ"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001907",
+        "townName": "DERBENT"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001789",
+        "townName": "DEREBUCAK"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001285",
+        "townName": "DOĞANHİSAR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001920",
+        "townName": "EMİRGAZİ"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001312",
+        "townName": "EREĞLİ"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001933",
+        "townName": "GÜNEYSINIR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001375",
+        "townName": "HADİM"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001937",
+        "townName": "HALKAPINAR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001804",
+        "townName": "HÜYÜK"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001400",
+        "townName": "ILGIN"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001422",
+        "townName": "KADINHANI"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001441",
+        "townName": "KARAPINAR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001814",
+        "townName": "KARATAY"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001491",
+        "townName": "KULU"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001827",
+        "townName": "MERAM"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001598",
+        "townName": "SARAYÖNÜ"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001839",
+        "townName": "SELÇUKLU"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001617",
+        "townName": "SEYDİŞEHİR"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001848",
+        "townName": "TAŞKENT"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001990",
+        "townName": "TUZLUKÇU"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001994",
+        "townName": "YALIHÜYÜK"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001735",
+        "townName": "YUNAK"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001902",
+        "townName": "ÇELTİK"
+    },
+    {
+        "cityCode": "42",
+        "cityName": "Konya",
+        "townCode": "000000001262",
+        "townName": "ÇUMRA"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001132",
+        "townName": "ALTINTAŞ"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001764",
+        "townName": "ASLANAPA"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001288",
+        "townName": "DOMANİÇ"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001790",
+        "townName": "DUMLUPINAR"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001304",
+        "townName": "EMET"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001339",
+        "townName": "GEDİZ"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001802",
+        "townName": "HİSARCIK"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001500",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001979",
+        "townName": "PAZARLAR"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001625",
+        "townName": "SİMAV"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001671",
+        "townName": "TAVŞANLI"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001898",
+        "townName": "ÇAVDARHİSAR"
+    },
+    {
+        "cityCode": "43",
+        "cityName": "Kütahya",
+        "townCode": "000000001843",
+        "townName": "ŞAPHANE"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001114",
+        "townName": "AKÇADAĞ"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001143",
+        "townName": "ARAPGİR"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001148",
+        "townName": "ARGUVAN"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001772",
+        "townName": "BATTALGAZİ"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001265",
+        "townName": "DARENDE"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001914",
+        "townName": "DOĞANYOL"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001286",
+        "townName": "DOĞANŞEHİR"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001390",
+        "townName": "HEKİMHAN"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001953",
+        "townName": "KALE"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001969",
+        "townName": "KULUNCAK"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001582",
+        "townName": "PÜTÜRGE"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001995",
+        "townName": "YAZIHAN"
+    },
+    {
+        "cityCode": "44",
+        "cityName": "Malatya",
+        "townCode": "000000001729",
+        "townName": "YEŞİLYURT"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001751",
+        "townName": "AHMETLİ"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001118",
+        "townName": "AKHİSAR"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001127",
+        "townName": "ALAŞEHİR"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001269",
+        "townName": "DEMİRCİ"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001793",
+        "townName": "GÖLMARMARA"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001362",
+        "townName": "GÖRDES"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001470",
+        "townName": "KIRKAĞAÇ"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001489",
+        "townName": "KULA"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001965",
+        "townName": "KÖPRÜBAŞI"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001590",
+        "townName": "SALİHLİ"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001600",
+        "townName": "SARIGÖL"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001606",
+        "townName": "SARUHANLI"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001613",
+        "townName": "SELENDİ"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001634",
+        "townName": "SOMA"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000001689",
+        "townName": "TURGUTLU"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000002087",
+        "townName": "YUNUSEMRE"
+    },
+    {
+        "cityCode": "45",
+        "cityName": "Manisa",
+        "townCode": "000000002086",
+        "townName": "ŞEHZADELER"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001107",
+        "townName": "AFŞİN"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001136",
+        "townName": "ANDIRIN"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000002084",
+        "townName": "DULKADİROĞLU"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001919",
+        "townName": "EKİNÖZÜ"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001299",
+        "townName": "ELBİSTAN"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001353",
+        "townName": "GÖKSUN"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001975",
+        "townName": "NURHAK"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000002085",
+        "townName": "ONİKİŞUBAT"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001570",
+        "townName": "PAZARCIK"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001694",
+        "townName": "TÜRKOĞLU"
+    },
+    {
+        "cityCode": "46",
+        "cityName": "K.Maraş",
+        "townCode": "000000001785",
+        "townName": "ÇAĞLAYANCERİT"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000002088",
+        "townName": "ARTUKLU"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001787",
+        "townName": "DARGEÇİT"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001273",
+        "townName": "DERİK"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001474",
+        "townName": "KIZILTEPE"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001519",
+        "townName": "MAZIDAĞI"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001526",
+        "townName": "MİDYAT"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001547",
+        "townName": "NUSAYBİN"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001609",
+        "townName": "SAVUR"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000002002",
+        "townName": "YEŞİLLİ"
+    },
+    {
+        "cityCode": "47",
+        "cityName": "Mardin",
+        "townCode": "000000001564",
+        "townName": "ÖMERLİ"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001197",
+        "townName": "BODRUM"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001742",
+        "townName": "DALAMAN"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001266",
+        "townName": "DATÇA"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001331",
+        "townName": "FETHİYE"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001958",
+        "townName": "KAVAKLIDERE"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001488",
+        "townName": "KÖYCEĞİZ"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001517",
+        "townName": "MARMARİS"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000002089",
+        "townName": "MENTEŞE"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001528",
+        "townName": "MİLAS"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001831",
+        "townName": "ORTACA"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000002090",
+        "townName": "SEYDİKEMER"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001695",
+        "townName": "ULA"
+    },
+    {
+        "cityCode": "48",
+        "cityName": "Muğla",
+        "townCode": "000000001719",
+        "townName": "YATAĞAN"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001213",
+        "townName": "BULANIK"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001801",
+        "townName": "HASKÖY"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001964",
+        "townName": "KORKUT"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001510",
+        "townName": "MALAZGİRT"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001534",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "49",
+        "cityName": "Muş",
+        "townCode": "000000001711",
+        "townName": "VARTO"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001749",
+        "townName": "ACIGÖL"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001155",
+        "townName": "AVANOS"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001274",
+        "townName": "DERİNKUYU"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001367",
+        "townName": "GÜLŞEHİR"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001374",
+        "townName": "HACIBEKTAŞ"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001485",
+        "townName": "KOZAKLI"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001543",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "50",
+        "cityName": "Nevşehir",
+        "townCode": "000000001707",
+        "townName": "ÜRGÜP"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001876",
+        "townName": "ALTUNHİSAR"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001201",
+        "townName": "BOR"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001544",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001700",
+        "townName": "ULUKIŞLA"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001225",
+        "townName": "ÇAMARDI"
+    },
+    {
+        "cityCode": "51",
+        "cityName": "Niğde",
+        "townCode": "000000001904",
+        "townName": "ÇİFTLİK"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001119",
+        "townName": "AKKUŞ"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000002103",
+        "townName": "ALTINORDU"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001158",
+        "townName": "AYBASTI"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001328",
+        "townName": "FATSA"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001358",
+        "townName": "GÖLKÖY"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001795",
+        "townName": "GÜLYALI"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001797",
+        "townName": "GÜRGENTEPE"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001950",
+        "townName": "KABADÜZ"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001951",
+        "townName": "KABATAŞ"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001482",
+        "townName": "KORGAN"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001493",
+        "townName": "KUMRU"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001525",
+        "townName": "MESUDİYE"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001573",
+        "townName": "PERŞEMBE"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001696",
+        "townName": "ULUBEY"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001891",
+        "townName": "ÇAMAŞ"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001897",
+        "townName": "ÇATALPINAR"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001900",
+        "townName": "ÇAYBAŞI"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001706",
+        "townName": "ÜNYE"
+    },
+    {
+        "cityCode": "52",
+        "cityName": "Ordu",
+        "townCode": "000000001947",
+        "townName": "İKİZCE"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001146",
+        "townName": "ARDEŞEN"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001908",
+        "townName": "DEREPAZARI"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001332",
+        "townName": "FINDIKLI"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001796",
+        "townName": "GÜNEYSU"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001943",
+        "townName": "HEMŞİN"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001428",
+        "townName": "KALKANDERE"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001586",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001569",
+        "townName": "PAZAR"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001228",
+        "townName": "ÇAMLIHEMŞİN"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001241",
+        "townName": "ÇAYELİ"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001405",
+        "townName": "İKİZDERE"
+    },
+    {
+        "cityCode": "53",
+        "cityName": "Rize",
+        "townCode": "000000001949",
+        "townName": "İYİDERE"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000002068",
+        "townName": "ADAPAZARI"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001123",
+        "townName": "AKYAZI"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000002069",
+        "townName": "ARİFİYE"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000002070",
+        "townName": "ERENLER"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001925",
+        "townName": "FERİZLİ"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001351",
+        "townName": "GEYVE"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001391",
+        "townName": "HENDEK"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001955",
+        "townName": "KARAPÜRÇEK"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001442",
+        "townName": "KARASU"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001453",
+        "townName": "KAYNARCA"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001818",
+        "townName": "KOCAALİ"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001833",
+        "townName": "PAMUKOVA"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001595",
+        "townName": "SAPANCA"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000002071",
+        "townName": "SERDİVAN"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001986",
+        "townName": "SÖĞÜTLÜ"
+    },
+    {
+        "cityCode": "54",
+        "cityName": "Sakarya",
+        "townCode": "000000001847",
+        "townName": "TARAKLI"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001830",
+        "townName": "19 MAYIS"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001125",
+        "townName": "ALAÇAM"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001763",
+        "townName": "ASARCIK"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000002072",
+        "townName": "ATAKUM"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001879",
+        "townName": "AYVACIK"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001164",
+        "townName": "BAFRA"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000002073",
+        "townName": "CANİK"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001386",
+        "townName": "HAVZA"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001452",
+        "townName": "KAVAK"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001501",
+        "townName": "LADİK"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001838",
+        "townName": "SALIPAZARI"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001849",
+        "townName": "TEKKEKÖY"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001676",
+        "townName": "TERME"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001712",
+        "townName": "VEZİRKÖPRÜ"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001993",
+        "townName": "YAKAKENT"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000001234",
+        "townName": "ÇARŞAMBA"
+    },
+    {
+        "cityCode": "55",
+        "cityName": "Samsun",
+        "townCode": "000000002074",
+        "townName": "İLKADIM"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001179",
+        "townName": "BAYKAN"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001317",
+        "townName": "ERUH"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001495",
+        "townName": "KURTALAN"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001620",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001575",
+        "townName": "PERVARİ"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001878",
+        "townName": "TİLLO"
+    },
+    {
+        "cityCode": "56",
+        "cityName": "Siirt",
+        "townCode": "000000001662",
+        "townName": "ŞİRVAN"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001156",
+        "townName": "AYANCIK"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001204",
+        "townName": "BOYABAT"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001290",
+        "townName": "DURAĞAN"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001910",
+        "townName": "DİKMEN"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001314",
+        "townName": "ERFELEK"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001349",
+        "townName": "GERZE"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001627",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001981",
+        "townName": "SARAYDÜZÜ"
+    },
+    {
+        "cityCode": "57",
+        "cityName": "Sinop",
+        "townCode": "000000001693",
+        "townName": "TÜRKELİ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001870",
+        "townName": "AKINCILAR"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001875",
+        "townName": "ALTINYAYLA"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001913",
+        "townName": "DOĞANŞAR"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001282",
+        "townName": "DİVRİĞİ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001342",
+        "townName": "GEMEREK"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001927",
+        "townName": "GÖLOVA"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001373",
+        "townName": "GÜRÜN"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001376",
+        "townName": "HAFİK"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001431",
+        "townName": "KANGAL"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001484",
+        "townName": "KOYULHİSAR"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001628",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001646",
+        "townName": "SUŞEHRİ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001991",
+        "townName": "ULAŞ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001731",
+        "townName": "YILDIZELİ"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001738",
+        "townName": "ZARA"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001407",
+        "townName": "İMRANLI"
+    },
+    {
+        "cityCode": "58",
+        "cityName": "Sivas",
+        "townCode": "000000001650",
+        "townName": "ŞARKIŞLA"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000002094",
+        "townName": "ERGENE"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001388",
+        "townName": "HAYRABOLU"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000002095",
+        "townName": "KAPAKLI"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001511",
+        "townName": "MALKARA"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001825",
+        "townName": "MARMARAEREĞLİSİ"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001538",
+        "townName": "MURATLI"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001596",
+        "townName": "SARAY"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000002096",
+        "townName": "SÜLEYMANPAŞA"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001250",
+        "townName": "ÇERKEZKÖY"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001258",
+        "townName": "ÇORLU"
+    },
+    {
+        "cityCode": "59",
+        "cityName": "Tekirdağ",
+        "townCode": "000000001652",
+        "townName": "ŞARKÖY"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001129",
+        "townName": "ALMUS"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001151",
+        "townName": "ARTOVA"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001883",
+        "townName": "BAŞÇİFTLİK"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001308",
+        "townName": "ERBAA"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001679",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001545",
+        "townName": "NİKSAR"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001834",
+        "townName": "PAZAR"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001584",
+        "townName": "REŞADİYE"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001987",
+        "townName": "SULUSARAY"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001690",
+        "townName": "TURHAL"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001858",
+        "townName": "YEŞİLYURT"
+    },
+    {
+        "cityCode": "60",
+        "cityName": "Tokat",
+        "townCode": "000000001740",
+        "townName": "ZİLE"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001113",
+        "townName": "AKÇAABAT"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001141",
+        "townName": "ARAKLI"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001150",
+        "townName": "ARSİN"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001775",
+        "townName": "BEŞİKDÜZÜ"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001909",
+        "townName": "DERNEKPAZARI"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001917",
+        "townName": "DÜZKÖY"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001942",
+        "townName": "HAYRAT"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001966",
+        "townName": "KÖPRÜBAŞI"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001507",
+        "townName": "MAÇKA"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001548",
+        "townName": "OF"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000002097",
+        "townName": "ORTAHİSAR"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001647",
+        "townName": "SÜRMENE"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001681",
+        "townName": "TONYA"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001709",
+        "townName": "VAKFIKEBİR"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001732",
+        "townName": "YOMRA"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001896",
+        "townName": "ÇARŞIBAŞI"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001244",
+        "townName": "ÇAYKARA"
+    },
+    {
+        "cityCode": "61",
+        "cityName": "Trabzon",
+        "townCode": "000000001842",
+        "townName": "ŞALPAZARI"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001397",
+        "townName": "HOZAT"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001518",
+        "townName": "MAZGİRT"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001688",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001541",
+        "townName": "NAZIMİYE"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001562",
+        "townName": "OVACIK"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001574",
+        "townName": "PERTEK"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001581",
+        "townName": "PÜLÜMÜR"
+    },
+    {
+        "cityCode": "62",
+        "cityName": "Tunceli",
+        "townCode": "000000001247",
+        "townName": "ÇEMİŞGEZEK"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001115",
+        "townName": "AKÇAKALE"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001209",
+        "townName": "BOZOVA"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001194",
+        "townName": "BİRECİK"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001220",
+        "townName": "CEYLANPINAR"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000002091",
+        "townName": "EYYÜBİYE"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001378",
+        "townName": "HALFETİ"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000002092",
+        "townName": "HALİLİYE"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001800",
+        "townName": "HARRAN"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001393",
+        "townName": "HİLVAN"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000002093",
+        "townName": "KARAKÖPRÜ"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001643",
+        "townName": "SURUÇ"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001630",
+        "townName": "SİVEREK"
+    },
+    {
+        "cityCode": "63",
+        "cityName": "Şanlıurfa",
+        "townCode": "000000001713",
+        "townName": "VİRANŞEHİR"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001170",
+        "townName": "BANAZ"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001323",
+        "townName": "EŞME"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001436",
+        "townName": "KARAHALLI"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001704",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001629",
+        "townName": "SİVASLI"
+    },
+    {
+        "cityCode": "64",
+        "cityName": "Uşak",
+        "townCode": "000000001697",
+        "townName": "ULUBEY"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001770",
+        "townName": "BAHÇESARAY"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001175",
+        "townName": "BAŞKALE"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001918",
+        "townName": "EDREMİT"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001309",
+        "townName": "ERCİŞ"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001350",
+        "townName": "GEVAŞ"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001372",
+        "townName": "GÜRPINAR"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001533",
+        "townName": "MURADİYE"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001980",
+        "townName": "SARAY"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000002099",
+        "townName": "TUŞBA"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001786",
+        "townName": "ÇALDIRAN"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001236",
+        "townName": "ÇATAK"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000001565",
+        "townName": "ÖZALP"
+    },
+    {
+        "cityCode": "65",
+        "cityName": "Van",
+        "townCode": "000000002098",
+        "townName": "İPEKYOLU"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001117",
+        "townName": "AKDAĞMADENİ"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001877",
+        "townName": "AYDINCIK"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001198",
+        "townName": "BOĞAZLIYAN"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001952",
+        "townName": "KADIŞEHRİ"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001733",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001982",
+        "townName": "SARAYKENT"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001602",
+        "townName": "SARIKAYA"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001635",
+        "townName": "SORGUN"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001998",
+        "townName": "YENİFAKILI"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001726",
+        "townName": "YERKÖY"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001895",
+        "townName": "ÇANDIR"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001242",
+        "townName": "ÇAYIRALAN"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001245",
+        "townName": "ÇEKEREK"
+    },
+    {
+        "cityCode": "66",
+        "cityName": "Yozgat",
+        "townCode": "000000001655",
+        "townName": "ŞEFAATLİ"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001758",
+        "townName": "ALAPLI"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001276",
+        "townName": "DEVREK"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001313",
+        "townName": "EREĞLİ"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001926",
+        "townName": "GÖKÇEBEY"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000002101",
+        "townName": "KOZLU"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000002100",
+        "townName": "KİLİMLİ"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001741",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "67",
+        "cityName": "Zonguldak",
+        "townCode": "000000001240",
+        "townName": "ÇAYCUMA"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001860",
+        "townName": "AĞAÇÖREN"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001921",
+        "townName": "ESKİL"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001932",
+        "townName": "GÜLAĞAÇ"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001861",
+        "townName": "GÜZELYURT"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001120",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001557",
+        "townName": "ORTAKÖY"
+    },
+    {
+        "cityCode": "68",
+        "cityName": "Aksaray",
+        "townCode": "000000001866",
+        "townName": "SARIYAHŞİ"
+    },
+    {
+        "cityCode": "69",
+        "cityName": "Bayburt",
+        "townCode": "000000001767",
+        "townName": "AYDINTEPE"
+    },
+    {
+        "cityCode": "69",
+        "cityName": "Bayburt",
+        "townCode": "000000001788",
+        "townName": "DEMİRÖZÜ"
+    },
+    {
+        "cityCode": "69",
+        "cityName": "Bayburt",
+        "townCode": "000000001176",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001768",
+        "townName": "AYRANCI"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001884",
+        "townName": "BAŞYAYLA"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001316",
+        "townName": "ERMENEK"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001862",
+        "townName": "KAZIMKARABEKİR"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001439",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "70",
+        "cityName": "Karaman",
+        "townCode": "000000001983",
+        "townName": "SARIVELİLER"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001880",
+        "townName": "BAHŞİLİ"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001882",
+        "townName": "BALIŞEYH"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001268",
+        "townName": "DELİCE"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001954",
+        "townName": "KARAKEÇİLİ"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001463",
+        "townName": "KESKİN"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001469",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001638",
+        "townName": "SULAKYURT"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001992",
+        "townName": "YAHŞİHAN"
+    },
+    {
+        "cityCode": "71",
+        "cityName": "Kırıkkale",
+        "townCode": "000000001901",
+        "townName": "ÇELEBİ"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001184",
+        "townName": "BEŞİRİ"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001345",
+        "townName": "GERCÜŞ"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001941",
+        "townName": "HASANKEYF"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001487",
+        "townName": "KOZLUK"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001174",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "72",
+        "cityName": "Batman",
+        "townCode": "000000001607",
+        "townName": "SASON"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001189",
+        "townName": "BEYTÜŞŞEBAP"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001223",
+        "townName": "CİZRE"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001931",
+        "townName": "GÜÇLÜKONAK"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001661",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001623",
+        "townName": "SİLOPİ"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001698",
+        "townName": "ULUDERE"
+    },
+    {
+        "cityCode": "73",
+        "cityName": "Şırnak",
+        "townCode": "000000001403",
+        "townName": "İDİL"
+    },
+    {
+        "cityCode": "74",
+        "cityName": "Bartın",
+        "townCode": "000000001761",
+        "townName": "AMASRA"
+    },
+    {
+        "cityCode": "74",
+        "cityName": "Bartın",
+        "townCode": "000000001496",
+        "townName": "KURUCAŞİLE"
+    },
+    {
+        "cityCode": "74",
+        "cityName": "Bartın",
+        "townCode": "000000001172",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "74",
+        "cityName": "Bartın",
+        "townCode": "000000001701",
+        "townName": "ULUS"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000002008",
+        "townName": "DAMAL"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000001356",
+        "townName": "GÖLE"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000001380",
+        "townName": "HANAK"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000001144",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000001579",
+        "townName": "POSOF"
+    },
+    {
+        "cityCode": "75",
+        "cityName": "Ardahan",
+        "townCode": "000000001252",
+        "townName": "ÇILDIR"
+    },
+    {
+        "cityCode": "76",
+        "cityName": "Iğdır",
+        "townCode": "000000001142",
+        "townName": "ARALIK"
+    },
+    {
+        "cityCode": "76",
+        "cityName": "Iğdır",
+        "townCode": "000000002011",
+        "townName": "KARAKOYUNLU"
+    },
+    {
+        "cityCode": "76",
+        "cityName": "Iğdır",
+        "townCode": "000000001398",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "76",
+        "cityName": "Iğdır",
+        "townCode": "000000001692",
+        "townName": "TUZLUCA"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000002019",
+        "townName": "ALTINOVA"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000002020",
+        "townName": "ARMUTLU"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000001716",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000002026",
+        "townName": "TERMAL"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000002021",
+        "townName": "ÇINARCIK"
+    },
+    {
+        "cityCode": "77",
+        "cityName": "Yalova",
+        "townCode": "000000002022",
+        "townName": "ÇİFTLİKKÖY"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001296",
+        "townName": "EFLANİ"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001321",
+        "townName": "ESKİPAZAR"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001433",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001561",
+        "townName": "OVACIK"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001587",
+        "townName": "SAFRANBOLU"
+    },
+    {
+        "cityCode": "78",
+        "cityName": "Karabük",
+        "townCode": "000000001856",
+        "townName": "YENİCE"
+    },
+    {
+        "cityCode": "79",
+        "cityName": "Kilis",
+        "townCode": "000000002023",
+        "townName": "ELBEYLİ"
+    },
+    {
+        "cityCode": "79",
+        "cityName": "Kilis",
+        "townCode": "000000001476",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "79",
+        "cityName": "Kilis",
+        "townCode": "000000002024",
+        "townName": "MUSABEYLİ"
+    },
+    {
+        "cityCode": "79",
+        "cityName": "Kilis",
+        "townCode": "000000002025",
+        "townName": "POLATELİ"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000001165",
+        "townName": "BAHÇE"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000001743",
+        "townName": "DÜZİÇİ"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000002027",
+        "townName": "HASANBEYLİ"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000001423",
+        "townName": "KADİRLİ"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000001560",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000002028",
+        "townName": "SUMBAS"
+    },
+    {
+        "cityCode": "80",
+        "cityName": "Osmaniye",
+        "townCode": "000000002029",
+        "townName": "TOPRAKKALE"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001116",
+        "townName": "AKÇAKOCA"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001784",
+        "townName": "CUMAYERİ"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001794",
+        "townName": "GÖLYAKA"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000002017",
+        "townName": "GÜMÜŞOVA"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000002031",
+        "townName": "KAYNAŞLI"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001292",
+        "townName": "MERKEZ"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001730",
+        "townName": "YIĞILCA"
+    },
+    {
+        "cityCode": "81",
+        "cityName": "Düzce",
+        "townCode": "000000001905",
+        "townName": "ÇİLİMLİ"
+    }
+]

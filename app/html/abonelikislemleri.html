@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Abonelik İşlemleri</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page py-5">
+            <div class="container">
+                <nav class="mb-5">
+                    <div class="nav page-buttons" id="nav-tab" role="tablist">
+                        <button class="page-buttons-item active" data-bs-toggle="tab" data-bs-target="#oneTab" type="button" role="tab" aria-controls="nav-home" aria-selected="true">
+                            <h2>Evim için <i class="icon-detail"></i></h2>
+                            <small>Kurumsal iletişim için aşağıdaki bilgileri kullanabilirsiniz.</small>
+                            <i class="icon-for-home"></i>
+                        </button>
+                        <button class="page-buttons-item" data-bs-toggle="tab" data-bs-target="#twoTab" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
+                            <h2><i class="icon-detail"></i>İş Yerim için</h2>
+                            <small>Kurumsal iletişim için aşağıdaki bilgileri kullanabilirsiniz.</small>
+                            <i class="icon-for-work"></i>
+                        </button>
+                    </div>
+                </nav>
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="oneTab" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="page-text">
+                            <h3>Yeni Abonelik</h3>
+                            <p>Sadece birkaç adımda abonelik işlemlerinizi kolayca tamamlayabilirsiniz.</p>
+                        </div>
+                        <div class="page-list mb-5">
+                            <i class="top25 icon-pc"></i>
+                            <p><b>Yeni abonelik işleminizi Müşteri İlişkileri Merkezlerimize giderek sıra beklemeden yapmak isterseniz Aydem Online İşlemler Merkezimizden, aşağıdaki Randevu Al butonundan veya çağrı merkezimizden randevu alabilirsiniz.</b></p>
+                            <hr>
+                            <ul>
+                                <li>Sizin için en uygun gün ve saati seçtikten sonra randevu kaydınızı sistemde oluşturabilirsiniz.</li>
+                                <li>Aydem Müşteri İlişkileri Merkezlerimize randevu saatinizden 15 dakika önce gelerek TC kimlik numaranız ile sıramatikten fişinizi alın.</li>
+                                <li>Abonelik başvurunuzu online olarak gerçekleştirmek isterseniz üzerinden işlemlerinizi tamamlayabilir veya e-devlet üzerinden abonelik başvurusunda bulunabilirsiniz.</li>
+                            </ul>
+                            <div class="page-list-buttons">
+                                <a href="tel:08508000160"><i class="icon-phone"></i>0850 800 0 160</a>
+                                <a href="#"><i class="icon-on-appointment"></i>Online Randevu</a>
+                            </div>
+                        </div>
+                        <div class="page-list">
+                            <i class="top25 icon-application-doc"></i>
+                            <p><b>Başvurunuzun sorunsuz ve kolayca gerçekleştirilebilmesi için abonelik durumunuza göre aşağıda belirtilen evrakları yanınızda bulundurun.</b></p>
+                        </div>
+                        <div class="page-accordion mb-5" id="pageAcc1">
+                            <div class="page-accordion-item">
+                                <button class="page-accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#pageAccOne" aria-expanded="true" aria-controls="pageAccOne">
+                                    Abonelik Yaptırmak İstediğim Yerde Mevcut Bir Abonelik Var
+                                </button>
+                                <div id="pageAccOne" class="collapse show" aria-labelledby="pageAcc-headingOne" data-bs-parent="#pageAcc1">
+                                    <div class="page-accordion-body">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis explicabo autem, reprehenderit accusantium ipsam possimus minus expedita cumque? Vel suscipit magnam quia totam vitae blanditiis id in repellat numquam nesciunt.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page-accordion-item">
+                                <button class="page-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#pageAccTwo" aria-expanded="false" aria-controls="pageAccTwo">
+                                    Yeni Yapılmış Bir Binaya Taşınıyorum, Evin İlk Abonesi Ben Olacağım
+                                </button>
+                                <div id="pageAccTwo" class="collapse" aria-labelledby="pageAcc-headingTwo" data-bs-parent="#pageAcc1">
+                                    <div class="page-accordion-body">
+                                        <div class="page-list p-0">
+                                            <ul>
+                                                <li>Tesisat Numarası / Sayaç Barkod Numarası / Abone olunacak yere ait eski bir fatura Nüfus Cüzdanı / Kimlik Kartı Aslı</li>
+                                                <li>Mal sahibi Ad Soyad / Unvan (Şahıs ise T.C. Kimlik Numarası, şirket ise Vergi Numarası da sunulmalıdır.)</li>
+                                                <li>İşlemi gerçekleştirecek özel / tüzel şahıs farklı ise, duruma göre Vekâlet / İmza Sirküleri / Veraset İlamı</li>
+                                                <li>Geçerliliği devam eden DASK Poliçe Numarası (6305 sayılı Afet Sigortaları Kanunu uyarınca abonelik işlemlerinizin tamamlanabilmesi için Zorunlu Deprem Sigortası yaptırmanız gerekmektedir. Henüz Zorunlu Deprem Sigortası yaptırmadıysanız dilediğiniz sigorta şirketinden bu konuda hizmet alabilirsiniz. DASK’ınız varsa ve poliçe numaranızı bilmiyorsanız Alo DASK 125’i arayarak öğrenebilirsiniz.) Kiracılar için ev sahibinizden numarayı öğrenmeniz yeterlidir.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="page-list mb-5">
+                            <i class="top25 icon-back-pay"></i>
+                            <p><b>Ayrıldığınız evinize ait güvence bedelinizi size iade edebilmemiz için kendi adınıza aitvadesiz hesap numaranızı (IBAN) Müşteri İlişkileri Temsilcimize ya da 0850 800 0 186 numaralı çağrı merkezimize bildirin.</b></p>
+                            <hr>
+                            <ul>
+                                <li>Yeni aboneliğinize ait güvence bedelini ise internet bankacılığından veya Müşteri İlişkileri Merkezlerimizdeki veznelerimizden kolayca ödeyebilirsiniz.</li>
+                            </ul>
+                        </div>
+                        <div class="page-list">
+                            <i class="top25 icon-notice"></i>
+                            <p><b>Elektriğiniz açıldığında kısa mesaj ile sizi bilgilendireceğiz.</b></p>
+                        </div>
+                        <div class="page-accordion mb-5" id="pageAcc2">
+                            <div class="page-accordion-item">
+                                <button class="page-accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#pageAccOne" aria-expanded="true" aria-controls="pageAccOne">
+                                    Yeni taşındım, mesken abonesi olarak (PSS) sözleşme başvurumu nasıl ve nereye yapabilirim?
+                                </button>
+                                <div id="pageAccOne" class="collapse show" aria-labelledby="pageAcc-headingOne" data-bs-parent="#pageAcc2">
+                                    <div class="page-accordion-body">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis explicabo autem, reprehenderit accusantium ipsam possimus minus expedita cumque? Vel suscipit magnam quia totam vitae blanditiis id in repellat numquam nesciunt.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page-accordion-item">
+                                <button class="page-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#pageAccTwo" aria-expanded="false" aria-controls="pageAccTwo">
+                                    DASK (Doğal Afet Sigortaları Kurumu) nedir? Yeni aboneliklerde sözleşme başvurusu için neden zorunludur?
+                                </button>
+                                <div id="pageAccTwo" class="collapse" aria-labelledby="pageAcc-headingTwo" data-bs-parent="#pageAcc2">
+                                    <div class="page-accordion-body">
+                                        6305 sayılı Afet Sigortaları Kanununun 11’inci maddesinde “Zorunlu deprem sigortasının kapsamına giren binalar ve bağımsız bölümlerle ilgili olarak yaptırılan su ve elektrik abonelik işlemlerinde, zorunlu deprem sigortasının varlığı ilgili kuruluşça kontrol edilir. Taşınmaz mal üzerinde müstakilen mesken olarak inşa edilmiş binalar ile birlikte 634 sayılı kat mülkiyeti kanunu kapsamında tesis edilen kat mülkiyetine veya kat irtifakına konu meskenlerin elektrik abonelik tesis (bağlantı sözleşmesi) ve abone değişikliği işlemlerinin (perakende satış sözleşmesi), zorunlu deprem sigortası yapılmış olduğunun kontrol edilmesinin ardından tamamlanması gerekmektedir. Bu kontrol işlemi yapılmadan, abonelik işlemi tamamlanamaz.” hükümleri gereği yasal uygulama kapsamında DASK zorunluluğu bulunmaktadır.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="page-text">
+                            <h3>Abonelik Sonlandırma</h3>
+                            <p>Abonelik sonlandırma işlemlerini hızlıca ve kolaylıkla tamamlamak için aşağıdaki adımları takip edin.</p>
+                        </div>
+                        <div class="page-list mb-5">
+                            <i class="top25 icon-pc"></i>
+                            <p><b>Abonelik sonlandırma işleminizi Müşteri İlişkileri Merkezlerimizi giderek sıra beklemeden yapmak isterseniz Aydem Online İşlemler Merkezimizden, aşağıdaki Randevu Al butonundan veya 0850 800 0 186 numaralı çağrı merkezimizden randevu alabilirsiniz.</b></p>
+                            <hr>
+                            <ul>
+                                <li>Sizin için en uygun gün ve saati seçtikten sonra randevu kaydınızı sistemde oluşturabilirsiniz.</li>
+                                <li>Aydem Müşteri İlişkileri Merkezlerimize randevu saatinizden 15 dakika önce gelerek TC kimlik numaranız ile sıramatikten fişinizi alın.</li>
+                                <li>Abonelik sonlandırma başvurunuzu online olarak gerçekleştirmek isterseniz üzerinden işlemlerinizi tamamlayabilir veya e-devlet üzerinden abonelik sonlandırma başvurusunda bulunabilirsiniz.</li>
+                            </ul>
+                            <div class="page-list-buttons">
+                                <a href="tel:08508000160"><i class="icon-phone"></i>0850 800 0 160</a>
+                                <a href="#"><i class="icon-on-appointment"></i>Online Randevu</a>
+                            </div>
+                        </div>
+                        <div class="page-list">
+                            <i class="top25 icon-notice"></i>
+                            <p><b>Abonelik sonlandırma başvurunuzun sorunsuz ve kolayca gerçekleştirilebilmesi için abonelik durumunuza göre aşağıda belirtilen evrakları yanınızda bulundurun.</b></p>
+                        </div>
+                        <div class="page-accordion mb-5" id="pageAcc3">
+                            <div class="page-accordion-item">
+                                <button class="page-accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#pageAccOne" aria-expanded="true" aria-controls="pageAccOne">
+                                    Abonelik Yaptırmak İstediğim Yerde Mevcut Bir Abonelik Var
+                                </button>
+                                <div id="pageAccOne" class="collapse show" aria-labelledby="pageAcc-headingOne" data-bs-parent="#pageAcc3">
+                                    <div class="page-accordion-body">
+                                        <div class="page-list p-0">
+                                            <ul>
+                                                <li>Abonelik sizin adınıza ise nüfus cüzdanınızı, başkasının adına ise vekâletnamenizi yanınızda bulundurun.</li>
+                                                <li>Aboneliğinizi sonlandıracağınız yerin tesisat numarasını öğrenin. Sayacın fotoğrafı ya da bir eski bir elektrik faturası da yeterlidir.</li>
+                                                <li>Güvence bedelini iade edebilmemiz için işleminiz sırasında veya sonrasında aboneye ait vadesiz hesap numarasını (IBAN) Müşteri İlişkileri Temsilcimize ya da 0850 800 0 186 numaralı çağrı merkezimize bildirin.</li>
+                                                <li>Aboneliğiniz sonlandırılırken, sayacınızdan son endeksler alınacak ve enerjiniz kesilecektir. Son kullanımlarınızı yansıtan son dönem tüketiminiz faturalandırılacaktır. Güvence bedelinden mahsup edilen tutar sonrasında kalan bedel en geç 5 iş günü içerisinde IBAN numaranıza iade edilecektir.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="twoTab" role="tabpanel" aria-labelledby="nav-profile-tab">..2.</div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+</body>
+
+</html>

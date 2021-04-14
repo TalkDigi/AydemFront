@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Güvence Bedeli Sorgula</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Güvence Bedeli Sorgula</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page py-5">
+            <div class="container">
+                <div class="page-text text-center mb-5">
+                    <h3>Güvence Bedeli Sorgula</h3>
+                    <h6 class="mb-4">Hızlı İşlemler</h6>
+                    <p class="mx-lg-auto col-xl-9">
+                        Değerli Müşterimiz,<br> Mevcut Güvence Bedeli sorgulamanızı TC/Vergi Kimlik No, Sözleşme Hesap No, Tesisat No veya Abone No seçimlerinden biri ile gerçekleştirebilirsiniz. Yalnızca pasif durumdaki sözleşmeleriniz için güvence bedeli iade talebinde bulunabilirsiniz.
+                    </p>
+                </div>
+                <nav class="nav page-tabs">
+                    <a class="nav-link active" aria-current="page" href="#home" data-bs-toggle="tab">TC / Vergi Kimlik No</a>
+                    <a class="nav-link" href="#profile" data-bs-toggle="tab">Sözleşme Hesap Numarası</a>
+                    <a class="nav-link" href="#third" data-bs-toggle="tab">Tesisat No</a>
+                    <a class="nav-link" href="#fourth" data-bs-toggle="tab">Abone No</a>
+                </nav>
+                <div class="tab-content page-tabs-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <form class="col-lg-6 mx-lg-auto py-5 needs-validation" novalidate>
+                            <div class="input-group form-addon">
+                                <input type="text" class="form-control" minlength="11" maxlength="11" pattern="^[1-9]{1}[0-9]{9}[02468]{1}$" placeholder="TC / Vergi Kimlik No" aria-label="TC / Vergi Kimlik No" aria-describedby="button1" required>
+                                <button class="btn" type="submit" id="button1">Sorgula</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                        <form class="col-lg-6 mx-lg-auto py-5 needs-validation" novalidate>
+                            <div class="input-group form-addon">
+                                <input type="text" class="form-control" minlength="12" maxlength="12" placeholder="Sorgulama Hesap Numarasını Giriniz" aria-label="Sorgulama Hesap Numarasını Giriniz" aria-describedby="button2" required>
+                                <button class="btn" type="submit" id="button2">Sorgula</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="third" role="tabpanel" aria-labelledby="third-tab">
+                        <form class="col-lg-6 mx-lg-auto py-5 needs-validation" novalidate>
+                            <div class="input-group form-addon">
+                                <input type="text" class="form-control" minlength="8" maxlength="8" placeholder="Tesisat No" aria-label="Tesisat No" aria-describedby="button3" required>
+                                <button class="btn" type="submit" id="button3">Sorgula</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="fourth" role="tabpanel" aria-labelledby="fourth-tab">
+                        <form class="col-lg-6 mx-lg-auto py-5 needs-validation" novalidate>
+                            <div class="input-group form-addon">
+                                <input type="text" class="form-control" placeholder="Abone No" aria-label="Abone No" aria-describedby="button4" required>
+                                <button class="btn" type="submit" id="button4">Sorgula</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    İlgili aramanıza <strong>uygun kayıt bulunamamıştır.</strong> Lütfen giriş yaptığınız bilgilerinizi kontrol ediniz.
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script>
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
+</body>
+
+</html>

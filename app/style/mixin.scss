@@ -1,0 +1,262 @@
+﻿@mixin mq($width: "xs") {
+  @if ($width == "xs") {
+    @media (max-width: 575px) {
+      @content;
+    }
+  } @else if ($width == "sm") {
+    @media (min-width: 576px) {
+      @content;
+    }
+  } @else if ($width == "md") {
+    @media (min-width: 768px) {
+      @content;
+    }
+  } @else if ($width == "lg") {
+    @media (min-width: 992px) {
+      @content;
+    }
+  } @else if ($width == "xl") {
+    @media (min-width: 1200px) {
+      @content;
+    }
+  } @else if ($width == "xxl") {
+    @media (min-width: 1720px) {
+      @content;
+    }
+  }
+}
+
+/*****************Values******************/
+
+$transitionmouse: all 0.01s cubic-bezier(0.44, 0.97, 0.56, 0.96);
+$transition100: all 0.1s ease-out;
+$transition200: all 0.2s ease-out;
+$transition300: all 0.3s ease-out;
+$transition400: all 0.4s ease-out;
+$transition500: all 0.5s ease-out;
+$transition600: all 0.6s ease-out;
+$transition700: all 0.7s ease-out;
+$transition800: all 0.8s ease-out;
+$transition1600: all 1.6s ease-in;
+$transition4000: all 4s ease-out;
+$transitionFrm: all 0.8s cubic-bezier(0.44, 0.97, 0.56, 0.96);
+$transitionSlide: all 1s cubic-bezier(0.43, 0.1, 0.41, 0.89);
+
+/*****************Mixin******************/
+@mixin placeholder($color) {
+  &::-webkit-input-placeholder {
+    color: $color;
+  }
+
+  &:-moz-placeholder {
+    color: $color;
+  }
+
+  &::-moz-placeholder {
+    color: $color;
+  }
+
+  &:-ms-input-placeholder {
+    color: $color;
+  }
+}
+@mixin transition($transition) {
+  -webkit-transition: $transition;
+  -moz-transition: $transition;
+  -ms-transition: $transition;
+  -o-transition: $transition;
+  transition: $transition;
+}
+
+@mixin transformY($translateY) {
+  -webkit-transform: translateY($translateY);
+  -moz-transform: translateY($translateY);
+  -ms-transform: translateY($translateY);
+  -o-transform: translateY($translateY);
+  transform: translateY($translateY);
+}
+
+@mixin transformX($translateX) {
+  -webkit-transform: translateX($translateX);
+  -moz-transform: translateX($translateX);
+  -ms-transform: translateX($translateX);
+  -o-transform: translateX($translateX);
+  transform: translateX($translateX);
+}
+
+@mixin transformXY($translateX, $translateY) {
+  -webkit-transform: translate($translateX, $translateY);
+  -moz-transform: translate($translateX, $translateY);
+  -ms-transform: translate($translateX, $translateY);
+  -o-transform: translate($translateX, $translateY);
+  transform: translate($translateX, $translateY);
+}
+
+@mixin transformRotate($rotate) {
+  -moz-transform: rotate($rotate);
+  -webkit-transform: rotate($rotate);
+  -o-transform: rotate($rotate);
+  -ms-transform: rotate($rotate);
+  transform: rotate($rotate);
+}
+
+@mixin transformScale3d($scale) {
+  -moz-transform: scale3d($scale, $scale, $scale);
+  -webkit-transform: scale3d($scale, $scale, $scale);
+  -o-transform: scale3d($scale, $scale, $scale);
+  -ms-transform: scale3d($scale, $scale, $scale);
+  transform: scale3d($scale, $scale, $scale);
+}
+
+@mixin transformScale($scale) {
+  -moz-transform: scale($scale);
+  -webkit-transform: scale($scale);
+  -o-transform: scale($scale);
+  -ms-transform: scale($scale);
+  transform: scale($scale);
+}
+
+@mixin absolute-left-center() {
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+}
+
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow: inset $top $left $blur $color;
+    -moz-box-shadow: inset $top $left $blur $color;
+    box-shadow: inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+@mixin button($background, $padding) {
+  background-color: $background;
+  border: 1px solid darken($background, 10%);
+  display: table;
+  line-height: 1;
+  padding: $padding;
+  cursor: pointer;
+
+  &:hover {
+    background-color: lighten($background, 10%);
+  }
+}
+
+@mixin content($size) {
+  content: "";
+  position: absolute;
+  bottom: $size;
+  left: $size;
+  right: $size;
+  top: $size;
+}
+
+@mixin beforeline() {
+  background: $colorFirst;
+  background: linear-gradient(90deg, $colorFirst 0%, $colorSecond 100%);
+}
+
+@mixin menulink() {
+  display: flex;
+  background-color: #938374;
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  pointer-events: all;
+  cursor: pointer;
+  @include transition($transition400);
+  transition-property: transform;
+}
+
+// @mixin headline() {
+//   content: "";
+//   position: absolute;
+//   bottom: 0px;
+//   left: 0px;
+//   right: 0px;
+//   background-color: #42a5f5;
+//   width: 32px;
+//   height: 2px;
+// }
+
+//@include box-shadow(0, 1px, 2px, rgba(0, 0, 0, 0.2));
+
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow: inset $top $left $blur $color;
+    -moz-box-shadow: inset $top $left $blur $color;
+    box-shadow: inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+//@include gradient($from, $fromPercent, $to, $toPercent);
+
+@mixin gradient($from, $fromPercent, $to, $toPercent) {
+  background: $to;
+  background: -moz-linear-gradient(top, $from $fromPercent, $to $toPercent);
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop($fromPercent, $from),
+    color-stop($toPercent, $to)
+  );
+  background: -webkit-linear-gradient(top, $from $fromPercent, $to $toPercent);
+  background: -o-linear-gradient(top, $from $fromPercent, $to $toPercent);
+  background: linear-gradient(to bottom, $from $fromPercent, $to $toPercent);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#{$from}, endColorstr=#{$to});
+}
+
+@mixin transBar($translateX, $translateY, $rotate, $scale) {
+  -webkit-transform: translate($translateX, $translateY) rotate($rotate)
+    scale($scale);
+  -moz-transform: translate($translateX, $translateY) rotate($rotate)
+    scale($scale);
+  -ms-transform: translate($translateX, $translateY) rotate($rotate)
+    scale($scale);
+  -o-transform: translate($translateX, $translateY) rotate($rotate)
+    scale($scale);
+  transform: translate($translateX, $translateY) rotate($rotate) scale($scale);
+}
+
+@mixin transBarX($translateX, $translateY, $rotate) {
+  -webkit-transform: translate($translateX, $translateY) rotate($rotate);
+  -moz-transform: translate($translateX, $translateY) rotate($rotate);
+  -ms-transform: translate($translateX, $translateY) rotate($rotate);
+  -o-transform: translate($translateX, $translateY) rotate($rotate);
+  transform: translate($translateX, $translateY) rotate($rotate);
+}
+
+/*****************ScrollBar******************/
+@mixin scrollbar($color, $bgcolor) {
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    border-radius: 0px;
+    border: 0px;
+    background-color: $bgcolor;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $color;
+    border-radius: 0px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #000;
+  }
+}

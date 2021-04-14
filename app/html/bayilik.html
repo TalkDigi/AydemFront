@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Bayilik Yapısı</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Kurumsal</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container corporate">
+                <div class="page-text">
+                    <h3>Bayilik Yapısı</h3>
+                    <h4>Kurumsal</h4>
+                    <p>Türkiye’nin en büyük enerji şirketlerinden Aydem Perakende’nin<br>iş ortağı olmak ister misiniz ?</p>
+                    <div class="page-form">
+                        <div class="page-form-text">
+                            <h5>Neden Aydem Perakende Bayiliği?</h5>
+                            <p>Aydem Perakende olarak, 13 yıldır kaliteli hizmet anlayışı ve yaygın kanal yapısı ile elektrik tedarik hizmeti vermeye kendini adamış kocaman bir aileyiz.</p>
+                            <p>1.965 MW kurulu gücü ve 10.830 GWh/yıl elektrik üretimiyle Türkiye’nin ilk ve öncü enerji şirketi olan Aydem Enerji’den aldığımız güç ile birlikte; kanal çeşitliliğimiz, geniş ürün ve kampanya portföyümüz ve müşterilerimize değer katan hizmet anlayışımız ile 5 milyonun üzerinde müşterimize enerji sağlayarak sektörde her alanda fark yaratıyoruz.</p>
+                            <p>Sektördeki derin tecrübe ve deneyimimizi paylaşacağımız, portföyümüzde bulunan avantajlı ürün ve kampanyalarımızı müşteriler ile buluşturacak iş ortakları ile satış noktalarımızı büyütmek ve güçlendirmek istiyoruz.</p>
+                            <p>Siz de bizim iş ortağımız olarak büyümek, kazançlı bir iş modeli yaratmak ve bayilik avantajlarından faydalanmak istiyorsanız, başvuru formumuzu doldurarak ailemize katılın ve Aydem Perakende’nin bir parçası olun.</p>
+                        </div>
+                        <div class="form">
+                            <h3>Hemen Başvur!</h3>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="isim" placeholder="İsim Soyisim / Şirket Ünvanı">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="tc" placeholder="Tc Kimlik No / Vergi Kimlik No">
+                            </div>
+                            <div class="form-group">
+                                <label>Şirket Ünvanı:</label>
+                                <input type="text" class="form-control" name="corp" placeholder="">
+                            </div>
+                            <div class="form-group">
+                                <label>Yetkili Telefon No:</label>
+                                <input type="text" class="form-control" name="phone" placeholder="+90  _ _ _  _ _ _  _ _  _ _">
+                            </div>
+                            <div class="form-group">
+                                <label>Yetkili e-Mail Adresi:</label>
+                                <input type="email" class="form-control" name="email" placeholder="_________@_________">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="il">
+                                            <option selected>İl Seçiniz</option>
+                                            <option value="1">İstanbul</option>
+                                            <option value="2">Ankara</option>
+                                            <option value="3">İzmir</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="ilce">
+                                            <option selected>İlçe Seçiniz</option>
+                                            <option value="1">Adalar</option>
+                                            <option value="2">Bağcılar</option>
+                                            <option value="3">Sultangazi</option>
+                                            <option value="3">Sultanbeyli</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-footer">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                                    <label class="form-check-label" for="flexCheckChecked">
+                                        KVKK Aydınlatma <a href="/">metni’ni okudum</a>, onaylıyorum.
+                                    </label>
+                                </div>
+                                <button class="button-1 outline" href="#">Başvur <i class="icon-detail"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/imask.min.js"></script>
+    <script>
+        var phoneMask = IMask(
+            document.querySelector('[name="phone"]'), {
+            mask: '+{9\\0}(000)000 00 00'
+        });
+        new Choices("#il", {});
+        new Choices("#ilce", {});
+    </script>
+</body>
+
+</html>

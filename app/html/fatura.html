@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/introjs.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Fatura&Odeme</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrums</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page py-5">
+            <div class="container">
+                <div class="page-text text-center">
+                    <h3>Fatura Asistanı</h3>
+                    <p>Her ay eliniz ulasan elektrik faturalarınızı daha yakından tanımak ve okuyabilmek için Fatura Asistanımızdan faydalanabilirsiniz.</p>
+                </div>
+                <div class="invoice bg-light mx-auto shadow-sm my-5 p-3">
+                    <div class="invoice-header row">
+                        <div class="col">
+                            <img class="mb-4" src="/images/svg/logo.svg" width="150px">
+                            <p class="mb-1">Aydem Elektrik<br>Parakende A.S</p>
+                            <small>Manisa</small><br>
+                            <small>VERGI DAIRESI 3900519***</small><br>
+                            <small>Mersis No: 39005194650****</small><br>
+                            <small>Sirketimiz e-fatura mukellefidir</small>
+                        </div>
+                        <div class="col align-self-center text-center">
+                            <img class="mb-3" src="images/gib.png" width="109px" alt="">
+                            <p>e-Arsiv Fatura</p>
+                        </div>
+                        <div class="col text-end">
+                            <h4>ELEKTIRIK FATURASI</h4>
+                            <img src="images/imza.png" width="140" alt="">
+                            <table class="invoice-table text-start border-bottom color">
+                                <tr data-title="Fatura Tarihi" data-intro="Lorem ipsum doloer adipiscing elit, sed diam nonummy nibh.">
+                                    <th>Fatura Tarihi</th>
+                                    <td>03.02.2021</td>
+                                </tr>
+                                <tr>
+                                    <th>Fatura No</th>
+                                    <td>IG8242394291401**</td>
+                                </tr>
+                                <tr>
+                                    <th>Fatura Kodu</th>
+                                    <td>2423942914**</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="col-12 my-2">
+                            <h5>AYDEM PARAKENDE CAGRI MERKEZI</h5>
+                            <a href="tel:08508000186">0850 800 0 186</a>
+                            <a href="/">www.aydemparakende.com</a>
+                        </div>
+                    </div>
+                    <table class="invoice-table w-100 borderout">
+                        <tr>
+                            <th>Sozlesme Hesap No</th>
+                            <th>Isletme Adi</th>
+                        </tr>
+                        <tr>
+                            <td>23876213***</td>
+                            <td>BOLGE / 15</td>
+                        </tr>
+                    </table>
+                    <table class="invoice-table w-100 border-bottom " style="table-layout: fixed;">
+                        <tr>
+                            <th>Tesisat No/Tekil Kod</th>
+                            <td>180331***</td>
+                            <th>Tarife Kodu</th>
+                            <td>1001</td>
+                        </tr>
+                        <tr>
+                            <th>Tuketici Grubu</th>
+                            <td>4 AG TTTZ Mesken</td>
+                            <th>EIC</th>
+                            <td>237812391239737217</td>
+                        </tr>
+                        <tr>
+                            <th>Tuketici Sinifi</th>
+                            <td>Serbest Tuketici Adayi</td>
+                            <th>Kurulu Guc</th>
+                            <td>5,00000</td>
+                        </tr>
+                        <tr>
+                            <th>Tesisat No/Tekil Kod</th>
+                            <td>180331***</td>
+                            <th>Tarife Kodu</th>
+                            <td>1001</td>
+                        </tr>
+                        <tr>
+                            <th>Tesisat No/Tekil Kod</th>
+                            <td>180331***</td>
+                            <th>Tarife Kodu</th>
+                            <td>1001</td>
+                        </tr>
+                        <tr>
+                            <th>Tesisat No/Tekil Kod</th>
+                            <td>180331***</td>
+                            <th>Tarife Kodu</th>
+                            <td>1001</td>
+                        </tr>
+                    </table>
+                    <table class="invoice-table color w-100">
+                        <tr>
+                            <th>Musteri Bilgileri</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                FI*** SA*** <br>
+                                GAZI MH 7452/2 SOK NO 12 MANISA
+                            </td>
+                        </tr>
+                    </table>
+                    <div class="invoice-info">
+                        <div data-title="Ödenecek Tutar" data-intro="Ödenecek Tutar Lorem ipsum dolor sit amet.">
+                            <h6>ODENECEK TUTUR</h6>
+                            <strong>
+                                242,70
+                            </strong>
+                        </div>
+                        <div>
+                            <h6>SON ODEME TARIHI</h6>
+                            <strong>
+                                15.02.2021
+                            </strong>
+                        </div>
+                        <div>
+                            <h6>FATURA ORTALAMA TUKETIMI</h6>
+                            <strong>
+                                10,160
+                            </strong>
+                        </div>
+                    </div>
+                    <table class="invoice-table w-100 border-bottom mb-2">
+                        <thead>
+                            <tr>
+                                <th>Okuma Bilgileri</th>
+                                <th>Ilk Index</th>
+                                <th>Son Index</th>
+                                <th>Fark/Tuketim</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th>Okuma Gunu</th>
+                                <td>05.01.2021</td>
+                                <td>03.02.2021</td>
+                                <td>30</td>
+                            </tr>
+                            <tr>
+                                <th>Tek Zaman</th>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <th>Gunduz</th>
+                                <td>8294,231</td>
+                                <td>8494,231</td>
+                                <td>140,531</td>
+                            </tr>
+                            <tr>
+                                <th>Puant</th>
+                                <td>8294,231</td>
+                                <td>8494,231</td>
+                                <td>140,531</td>
+                            </tr>
+                            <tr>
+                                <th>Gece</th>
+                                <td>8294,231</td>
+                                <td>8494,231</td>
+                                <td>140,531</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="table-responsive">
+                        <table class="basetable w-100">
+                            <thead>
+                                <tr>
+                                    <th>Fatura Kalemleri</th>
+                                    <th>Tuketim</th>
+                                    <th>Birim Fiyat</th>
+                                    <th>Tutar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Enerji Bedeli Tum</td>
+                                    <td>304,813</td>
+                                    <td></td>
+                                    <td>196,32</td>
+                                </tr>
+                                <tr>
+                                    <td>Gunduz</td>
+                                    <td>140,531</td>
+                                    <td>0,644070</td>
+                                    <td>90,51</td>
+                                </tr>
+                                <tr>
+                                    <td>Gece</td>
+                                    <td>84,554</td>
+                                    <td>0,644070</td>
+                                    <td>54,46</td>
+                                </tr>
+                                <tr>
+                                    <td>Puant</td>
+                                    <td>79,728</td>
+                                    <td>0,644070</td>
+                                    <td>51,35</td>
+                                </tr>
+                                <tr>
+                                    <td>Enerji Fonu</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>6,06</td>
+                                </tr>
+                                <tr>
+                                    <td>TRT Payi</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>0,85</td>
+                                </tr>
+                                <tr>
+                                    <td>KDV Matrahi</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>2,42</td>
+                                </tr>
+                                <tr>
+                                    <td>KDV</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>205,65</td>
+                                </tr>
+                                <tr>
+                                    <td>Yuvarlama</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>0,03</td>
+                                </tr>
+                                <tr>
+                                    <td>Fatura Tutari</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>242,62</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4">YALNIZ IKIYUZKIRKIKITURKLIRASIALTMISIKIKURUS</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4">Gecmis borc alacak gecikme zammi haric</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Talimatli Banka</td>
+                                    <td colspan="2">XX Bankasi A.S</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4">Odeme yerleri faturanin arka yuzunde yeralmaktadir</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table class="basetable mt-2">
+                            <tr>
+                                <th>Yillik Tuketim Bilgileri</th>
+                                <th>Toplam(kWh)</th>
+                                <th>Gunluk Ortalama(kWh)</th>
+                            </tr>
+                            <tr>
+                                <td>Gecmis Yil</td>
+                                <td>3.500,324</td>
+                                <td>9,123</td>
+                            </tr>
+                            <tr>
+                                <td>Cari Yil</td>
+                                <td>3.500,324</td>
+                                <td>9,123</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="invoice-footer">
+                        <div class="invoice-footer-info">
+                            Degerli Musterilerimiz, Sirketimiz Kisisel Veri Korumasina iliskin Aydinlatma Metnine <br>
+                            https://www.gediz.com/tr/GenelAydinlatmaMetni linkinden ulasabilirsiniz.
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <b>Aydem Parakende Satis A.S</b>
+                                <div class="social">
+                                    <a href="#"><i class="icon-instagram"></i></a>
+                                    <a href="#"><i class="icon-facebook"></i></a>
+                                    <a href="#"><i class="icon-twitter"></i></a>
+                                    <span>aydemparakende</span>
+                                </div>
+
+                            </div>
+                            <div class="text-end">
+                                <p class="mb-2">
+                                    <b>E-posta:<a href="mailto:bilgi@aydemenerji.com">bilgi@aydemenerji.com</a></b>
+                                </p>
+                                <span>Hayat Icin Enerji</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/intro.min.js"></script>
+    <script>
+        introJs().setOptions({
+            'prevLabel': 'Onceki',
+            'nextLabel': 'Sonraki',
+            'doneLabel': 'Kapat',
+            showBullets: false,
+            tooltipClass: 'page-tooltip'
+        }).start();
+    </script>
+</body>
+
+</html>

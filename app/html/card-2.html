@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/AydemPerakende_Header_image.png 992w, images/AydemPerakende_Header_image.png 4000w" src="images/AydemPerakende_Header_image.png">
+            <div class="caption container">
+                <h1>Aydem Enerjik Kart</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page page-card container">
+            <div class="page-card-info row py-5">
+                <div class="col-lg-8 position-relative order-lg-1 mb-5 mb-lg-0">
+                    <img src="images/enerjik_kart_beyaz.png">
+                </div>
+                <div class="col-lg-4">
+                    <div class="page-text">
+                        <h3>Aydem Enerjik Kart’a Kolayca Sahip Ol!</h3>
+                        <p>Başvuru formunu doldurarak avantajlardan faydalanmaya hemen başlayabilirsin.</p>
+                    </div>
+                    <ul>
+                        <li>İndirimli <br> Alışveriş</li>
+                        <li>Kişiye Özel <br> Kampanyalar</li>
+                        <li>Tüm ATM’lerde <br> Kullanabilme</li>
+                        <li>7/24 Havale ve <br> EFT İmkanı</li>
+                    </ul>
+                    <a href="#" class="mt-2 button-2 gradient">Hemen Başvur <i class="icon-detail"></i></a>
+                </div>
+            </div>
+            <div class="page-text text-center mb-5">
+                <h3>Kimler Faydalanabilir?</h3>
+                <p class="col-lg-7 mx-auto">1 yıl ya da daha uzun süredir Aydem Perakende Satış A.Ş müşterisi olan, yıllık 100 bin kwh ve üzeri elektrik tüketen kobi ve kurumsal müşterilerimiz başvurabilirler.</p>
+            </div>
+            <div class="form">
+                <h3>Hemen Başvur!</h3>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="tc" placeholder="Tc Kimlik No / Vergi Kimlik No">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="isim" placeholder="İsim Soyisim / Şirket Ünvanı">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Şirket Ünvanı:</label>
+                            <input type="text" class="form-control" name="corp" placeholder="">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>Telefon No:</label>
+                            <input type="text" class="form-control" name="phone" placeholder="+90  _ _ _  _ _ _  _ _  _ _">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label>e-Mail Adresi:</label>
+                            <input type="email" class="form-control" name="email" placeholder="_________@_________">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <select class="form-select" aria-label="Default select example" id="il">
+                                        <option value="">İl Seçiniz</option>
+                                        <option value="1">İstanbul</option>
+                                        <option value="2">Ankara</option>
+                                        <option value="3">Trabzon</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <select class="form-select" aria-label="Default select example" id="ilce">
+                                        <option value="">İlçe Seçiniz</option>
+                                        <option value="1">Adalar</option>
+                                        <option value="2">Bağcılar</option>
+                                        <option value="3">Sultangazi</option>
+                                        <option value="3">Sultanbeyli</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="form-group">
+                            <textarea type="text" rows="1" class="form-control" name="isim" placeholder="Kart Gönderim Adresi"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-footer">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                        <label class="form-check-label" for="flexCheckChecked">
+                            KVKK Aydınlatma <a href="/">metni’ni okudum</a>, onaylıyorum.
+                        </label>
+                    </div>
+                    <button class="button-2 gradient" href="#">Hemen Başvur <i class="icon-detail"></i></button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <div class="modal" tabindex="-1" id="smsModal">
+        <div class="modal-dialog modal-dialog-centered" style="max-width: 370px;">
+            <div class="modal-content text-center border-0 shadow">
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form class="modal-body form-sms" name="one-time-code" action="#">
+                    <fieldset>
+                        <legend class="mb-3">SMS ile gelen şifreni gir.</legend>
+                        <div>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" autocomplete="one-time-code" id="form-sms-1" required>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" id="form-sms-2" required>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" id="form-sms-3" required>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" id="form-sms-4" required>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" id="form-sms-5" required>
+                            <input type="number" pattern="[0-9]*" value="" inputtype="numeric" id="form-sms-6" required>
+                        </div>
+                    </fieldset>
+                    <button type="submit" class="bg-white border-secondary border text-primary mt-3 py-1 rounded-pill w-100">Giriş Yap</button>
+                    <div class="d-flex mt-3 justify-content-between">
+                        <div><small class="icon-clock text-warning me-1"></small>00:<span id="smsTime">60</span></div>
+                        <a href="#">Yeni Şifre İste</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="modal" tabindex="-1" id="smsSuccess">
+        <div class="modal-dialog modal-dialog-centered" style="max-width: 370px;">
+            <div class="modal-content text-center border-0 shadow">
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Mobil numaran başarı ile doğrulanmıştır. </p>
+                    <p>Teşekkür ederiz.</p>
+                    <p>Aydem Enerjik Kart başvurun başarı ile gerçekleştirilmiştir. Başvurun ile ilgili detaylı bilgi mail adresine iletilecektir.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    @@include('./shared/footer.html')
+    <script src="./js/imask.min.js"></script>
+    <script src="./js/smsInput.min.js"></script>
+    <script>
+        var phoneMask = IMask(
+            document.querySelector('[name="phone"]'), {
+            mask: '+{9\\0}(000)000 00 00'
+        });
+        new Choices("#il", {});
+        new Choices("#ilce", {});
+        var smsSuccess = new bootstrap.Modal(document.getElementById('smsSuccess'));
+        var smsModal = new bootstrap.Modal(document.getElementById('smsModal'));
+        // smsSuccess.show()
+        smsModal.show()
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Programlar</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item"><a href="#">Hakkımızda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Programlar</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container project">
+                <div class="project-item">
+                    <div class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <div class="splide__slide">
+                                    <div class="caption align-items-start">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <div class="splide__slide">
+                                    <div class="caption align-items-start">
+                                        <h3>AYDEM ORMAN</h3>
+                                        <h4>Çevreye ve gelecek nesillere daha yeşil ve yaşanabilir bir çevre bırakalım.</h4>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                    <picture>
+                                        <img alt="" srcset="https://picsum.photos/800/800 992w, https://picsum.photos/1300/500 4000w" src="https://picsum.photos/1300/500">
+                                    </picture>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script>
+        var elms = document.getElementsByClassName('splide');
+        for (var i = 0, len = elms.length; i < len; i++) {
+            new Splide(elms[i], {
+                perPage: 1,
+                arrows: false,
+                rewindSpeed: 900,
+                drag: false
+            }).mount();
+        }
+    </script>
+</body>
+
+</html>

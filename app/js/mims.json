@@ -1,0 +1,506 @@
+[
+    {
+        "code": "1210108667",
+        "name": "Dörtyol MİM",
+        "address": "ŞİRİNEVLER MAH.  No: 10 NAZİLLİ / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.3247726",
+        "latitude": "37.9094864",
+        "townCode": "000000001542"
+    },
+    {
+        "code": "1210108679",
+        "name": "Denizli Merkez MİM",
+        "address": "ADALET MAH. HASAN GÖNÜLLÜ BULVARI No: 15 MERKEZEFENDİ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.029949",
+        "latitude": "37.778601",
+        "townCode": "000000002079"
+    },
+    {
+        "code": "1210108687",
+        "name": "Didim Altınkum MİM",
+        "address": "YENİ MAH. 886 SOK. No: 7 / 9 DİDİM / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.272894",
+        "latitude": "37.363885",
+        "townCode": "000000002000"
+    },
+    {
+        "code": "1210108689",
+        "name": "Egemenlik MİM",
+        "address": "ORTA MAH. EGEMENLİK BULVARI No: 3 / 1 EFELER / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.846633",
+        "latitude": "37.848438",
+        "townCode": "000000002076"
+    },
+    {
+        "code": "1210108691",
+        "name": "Efeler MİM",
+        "address": "CUMHURİYET MAH. İZMİR BULVARI No: 38 / 16 EFELER / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.834755",
+        "latitude": "37.840912",
+        "townCode": "000000002076"
+    },
+    {
+        "code": "1210108694",
+        "name": "Batıgazi MİM",
+        "address": "HASANEFENDİ-RAMAZAN PAŞA MAH. BATI GAZİ BULVARI No: 51 / B /  8 EFELER / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.840158",
+        "latitude": "37.851649",
+        "townCode": "000000002076"
+    },
+    {
+        "code": "1210108696",
+        "name": "Didim MİM",
+        "address": "YENİ MAH. ŞEHİT RIDVAN ÇAKIR CAD. No: 6 DİDİM / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.267630",
+        "latitude": "37.373644",
+        "townCode": "000000002000"
+    },
+    {
+        "code": "1210108698",
+        "name": "Yenipazar MİM",
+        "address": "YENİ MAH. YELDEĞİRMEN CAD. No: 45 / Z-6 YENİPAZAR / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.19609",
+        "latitude": "37.82274",
+        "townCode": "000000001724"
+    },
+    {
+        "code": "1210108699",
+        "name": "Söke MİM",
+        "address": "KONAK MAH. AYDIN CAD. No: 22 / 4 SÖKE / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.410255",
+        "latitude": "37.756944",
+        "townCode": "000000001637"
+    },
+    {
+        "code": "1210108743",
+        "name": "Sultanhisar MİM",
+        "address": "KURTULUŞ MAH.  No: 2 SULTANHİSAR / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.154504",
+        "latitude": "37.889669",
+        "townCode": "000000001640"
+    },
+    {
+        "code": "1210108745",
+        "name": "Nazilli MİM",
+        "address": "TURAN MAH. KIBRIS CAD. No: 73 / A NAZİLLİ / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.329524",
+        "latitude": "37.916598",
+        "townCode": "000000001542"
+    },
+    {
+        "code": "1210108746",
+        "name": "Buharkent MİM",
+        "address": "ZAFER MAH. 9 SOK. No: 7 / A BUHARKENT / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.741842",
+        "latitude": "37.964360",
+        "townCode": "000000001781"
+    },
+    {
+        "code": "1210108753",
+        "name": "Kuyucak MİM",
+        "address": "BEŞEYLÜL MAH. ATATÜRK CAD. No: 5 / 7-A KUYUCAK / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.459906",
+        "latitude": "37.913218",
+        "townCode": "000000001498"
+    },
+    {
+        "code": "1210108754",
+        "name": "Kuşadası MİM",
+        "address": "CUMHURİYET MAH. MUAMMER ÜLGEN SOK. No: 6 / B KUŞADASI / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.264227",
+        "latitude": "37.857598",
+        "townCode": "000000001497"
+    },
+    {
+        "code": "1210108755",
+        "name": "Davutlar MİM",
+        "address": "DAVUTLAR MAH. EREN SOK. No: 4 KUŞADASI / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.293455",
+        "latitude": "37.736399",
+        "townCode": "000000001497"
+    },
+    {
+        "code": "1210108760",
+        "name": "Köşk MİM",
+        "address": "SOĞUKKUYU MAH. ŞEN SOK. No: 6 KÖŞK / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.050700",
+        "latitude": "37.855031",
+        "townCode": "000000001968"
+    },
+    {
+        "code": "1210108770",
+        "name": "Koçarlı MİM",
+        "address": "ORTA MAH. ATATÜRK CAD. No: 8 KOÇARLI / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.706438",
+        "latitude": "37.760277",
+        "townCode": "000000001479"
+    },
+    {
+        "code": "1210108774",
+        "name": "Karacasu MİM",
+        "address": "YAYLALI MAH. KUNDURACILAR SOK. No: 15 KARACASU / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.606842",
+        "latitude": "37.729098",
+        "townCode": "000000001435"
+    },
+    {
+        "code": "1210108776",
+        "name": "İncirliova MİM",
+        "address": "İSTİKLAL MAH. FEVZİPAŞA CAD. No: 35 İNCİRLİOVA / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.722418",
+        "latitude": "37.85254",
+        "townCode": "000000001807"
+    },
+    {
+        "code": "1210108781",
+        "name": "Germencik MİM",
+        "address": "CAMİKEBİR MAH. ÇETİNKAYA CAD. No: 11 / A GERMENCİK / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.60272",
+        "latitude": "37.871632",
+        "townCode": "000000001348"
+    },
+    {
+        "code": "1210108784",
+        "name": "Çine MİM",
+        "address": "HAMİTABAT MAH. MEHMET YAVAŞ CAD. No: 113 / A ÇİNE / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.061544",
+        "latitude": "37.613129",
+        "townCode": "000000001256"
+    },
+    {
+        "code": "1210108786",
+        "name": "Bozdoğan MİM",
+        "address": "ÇARŞI MAH. 24 SOK. No: 6 BOZDOĞAN / AYDIN",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.31177",
+        "latitude": "37.671982",
+        "townCode": "000000001206"
+    },
+    {
+        "code": "1210108792",
+        "name": "Çamlık MİM",
+        "address": "SİTELER MAH. ULUS CAD. No: 73 / 1 PAMUKKALE / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.095042",
+        "latitude": "37.753249",
+        "townCode": "000000001871"
+    },
+    {
+        "code": "1210109091",
+        "name": "Yatağan MİM",
+        "address": "KONAK MAH. ATATÜRK CAD. No: 17 YATAĞAN / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.138407",
+        "latitude": "37.342894",
+        "townCode": "000000001719"
+    },
+    {
+        "code": "1210109099",
+        "name": "Kavaklıdere MİM",
+        "address": "BAKIRCILAR MAH. MENTEŞEOĞLU CAD. No: 7 KAVAKLIDERE / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.364228",
+        "latitude": "37.444404",
+        "townCode": "000000001958"
+    },
+    {
+        "code": "1210109103",
+        "name": "Ula MİM",
+        "address": "KÖPRÜBAŞI MAH. CUMHURİYET CAD. No: 93 / A ULA / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.413885",
+        "latitude": "37.104447",
+        "townCode": "000000001695"
+    },
+    {
+        "code": "1210109115",
+        "name": "Ortaca MİM",
+        "address": "BEŞKÖPRÜ MAH. CUMHURİYET CAD. No: 62 / A ORTACA / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.765022",
+        "latitude": "36.838465",
+        "townCode": "000000001831"
+    },
+    {
+        "code": "1210109124",
+        "name": "Milas MİM",
+        "address": "HACI İLYAS MAH. MENTEŞE CAD. No: 58 MİLAS / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.777342",
+        "latitude": "37.312613",
+        "townCode": "000000001528"
+    },
+    {
+        "code": "1210109131",
+        "name": "Muğla MİM",
+        "address": "EMİRBEYAZIT MAH. HASAN ERCAN CAD. No: 21 / 1 MENTEŞE / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.359213",
+        "latitude": "37.213651",
+        "townCode": "000000002089"
+    },
+    {
+        "code": "1210109139",
+        "name": "Marmaris MİM",
+        "address": "KEMERALTI MAH. 70 SOK. No: 10 / A MARMARİS / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.269914",
+        "latitude": "36.857866",
+        "townCode": "000000001517"
+    },
+    {
+        "code": "1210109144",
+        "name": "Köyceğiz MİM",
+        "address": "GÜLPINAR MAH. ATATÜRK BULVARI No: 98 KÖYCEĞİZ / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.688763",
+        "latitude": "36.963090",
+        "townCode": "000000001488"
+    },
+    {
+        "code": "1210109151",
+        "name": "Seydikemer MİM",
+        "address": "CUMHURİYET MAH. ATATÜRK CAD. No: 30 / 1 SEYDİKEMER / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.372299",
+        "latitude": "36.645052",
+        "townCode": "000000002090"
+    },
+    {
+        "code": "1210109152",
+        "name": "Fethiye Merkez MİM",
+        "address": "TUZLA MAH. İNÖNÜ BULVARI No: 155 FETHİYE / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.131804",
+        "latitude": "36.625241",
+        "townCode": "000000001331"
+    },
+    {
+        "code": "1210109154",
+        "name": "Datça MİM",
+        "address": "İSKELE MAH. AMBARCI CAD. No: 36 DATÇA / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.682099",
+        "latitude": "36.724667",
+        "townCode": "000000001266"
+    },
+    {
+        "code": "1210109164",
+        "name": "Dalaman MİM",
+        "address": "MERKEZ MAH. HAKKI EGE CAD. No: 16 / A DALAMAN / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.801279",
+        "latitude": "36.768113",
+        "townCode": "000000001742"
+    },
+    {
+        "code": "1210109183",
+        "name": "Yalıkavak MİM",
+        "address": "YALIKAVAK MAH. ŞEYHÜL İSLAM ÖMER LÜTFİ CAD. No: 23 BODRUM / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.292475",
+        "latitude": "37.103873",
+        "townCode": "000000001197"
+    },
+    {
+        "code": "1210109186",
+        "name": "Turgutreis MİM",
+        "address": "TURGUTREİS MAH. MEHMET HİLMİ CAD. No: 6 BODRUM / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.258654",
+        "latitude": "37.007193",
+        "townCode": "000000001197"
+    },
+    {
+        "code": "1210109191",
+        "name": "Bodrum Merkez MİM",
+        "address": "KONACIK MAH. ATATÜRK BULVARI No: 114 / A BODRUM / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.387788",
+        "latitude": "37.050159",
+        "townCode": "000000001197"
+    },
+    {
+        "code": "1210109199",
+        "name": "Bodrum Çarşı MİM",
+        "address": "ÇARŞI MAH. NAZIM HİKMET SOK. No: 4 BODRUM / MUĞLA",
+        "phoneNumber": "+908508000186",
+        "longitude": "27.431740",
+        "latitude": "37.034553",
+        "townCode": "000000001197"
+    },
+    {
+        "code": "1210109205",
+        "name": "Saltak MİM",
+        "address": "SIRAKAPILAR MAH. SALTAK CAD. No: 44 / A MERKEZEFENDİ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.082012",
+        "latitude": "37.780731",
+        "townCode": "000000002079"
+    },
+    {
+        "code": "1210109212",
+        "name": "Serinhisar MİM",
+        "address": "ORTA MAH. MİTHAT PAŞA CAD. No: 42 / 1 SERİNHİSAR / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.264419",
+        "latitude": "37.577892",
+        "townCode": "000000001840"
+    },
+    {
+        "code": "1210109228",
+        "name": "Sarayköy MİM",
+        "address": "TURAN MAH. BULDAN CAD. No: 38 SARAYKÖY / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.923755",
+        "latitude": "37.925528",
+        "townCode": "000000001597"
+    },
+    {
+        "code": "1210109231",
+        "name": "Sevindik MİM",
+        "address": "SEVİNDİK MAH. 2306 SOK. No: 12 / B MERKEZEFENDİ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.104963",
+        "latitude": "37.801094",
+        "townCode": "000000002079"
+    },
+    {
+        "code": "1210109233",
+        "name": "Kale MİM",
+        "address": "CUMHURİYET MAH. CAMİ CAD. No: 36 KALE / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.845584",
+        "latitude": "37.442738",
+        "townCode": "000000001426"
+    },
+    {
+        "code": "1210109248",
+        "name": "Honaz MİM",
+        "address": "HAYDAR MAH. ALİM CAMİİ SOK. No: 8 HONAZ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.270854",
+        "latitude": "37.753382",
+        "townCode": "000000001803"
+    },
+    {
+        "code": "1210109252",
+        "name": "Güney MİM",
+        "address": "TİLKİLİK MAH. 5 SOK. No: 2 / D GÜNEY / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.064200",
+        "latitude": "38.154052",
+        "townCode": "000000001371"
+    },
+    {
+        "code": "1210109257",
+        "name": "Çivril MİM",
+        "address": "AŞAĞI MAH. HÜKÜMET CAD. No: 58 / B ÇİVRİL / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.737833",
+        "latitude": "38.296939",
+        "townCode": "000000001257"
+    },
+    {
+        "code": "1210109264",
+        "name": "Çardak MİM",
+        "address": "HÜRRİYET MAH. HÜSAMETTİN ÖZCAN CAD. No: 2 / 3 ÇARDAK / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.678100",
+        "latitude": "37.822966",
+        "townCode": "000000001233"
+    },
+    {
+        "code": "1210109284",
+        "name": "Çal MİM",
+        "address": "İSMAİLLER MAH. ÇARŞI İÇİ CAD. No: 86 ÇAL / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.397229",
+        "latitude": "38.083362",
+        "townCode": "000000001224"
+    },
+    {
+        "code": "1210109288",
+        "name": "Buldan MİM",
+        "address": "CUMHURİYET MAH. GÖNÜL CAD. No: 28 BULDAN / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.836107",
+        "latitude": "38.044717",
+        "townCode": "000000001214"
+    },
+    {
+        "code": "1210109291",
+        "name": "Beyağaç MİM",
+        "address": "YENİ MAH. SAĞLIK OCAĞI CAD. BEYAĞAÇ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.896092",
+        "latitude": "37.234498",
+        "townCode": "000000001888"
+    },
+    {
+        "code": "1210109294",
+        "name": "Bekilli MİM",
+        "address": "YENİ MAH. CUMHURİYET CAD. No: 23 / A BEKİLLİ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.418972",
+        "latitude": "38.23022",
+        "townCode": "000000001774"
+    },
+    {
+        "code": "1210109300",
+        "name": "Babadağ MİM",
+        "address": "GAZİ MAH.  No: 6 / B BABADAĞ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "28.857825",
+        "latitude": "37.809207",
+        "townCode": "000000001769"
+    },
+    {
+        "code": "1210109304",
+        "name": "Tavas MİM",
+        "address": "ORTA MAH. KISTILAR SOK. No: 21 / A TAVAS / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.068748",
+        "latitude": "37.571914",
+        "townCode": "000000001670"
+    },
+    {
+        "code": "1210109323",
+        "name": "Çameli MİM",
+        "address": "YENİ MAH. SELVELİ CAD. No: 63 ÇAMELİ / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.350045",
+        "latitude": "37.077225",
+        "townCode": "000000001226"
+    },
+    {
+        "code": "1210109324",
+        "name": "Acıpayam MİM",
+        "address": "YUKARI MAH. FETTAHLAR SOK. No: 2 / 3 ACIPAYAM / DENİZLİ",
+        "phoneNumber": "+908508000186",
+        "longitude": "29.349716",
+        "latitude": "37.426342",
+        "townCode": "000000001102"
+    }
+]

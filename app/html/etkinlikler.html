@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/lightgallery.min.css">
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Enerjimizi AKUT ile paylaşmaya devam ediyoruz</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item"><a href="#">Hakkımızda</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Etkinlikler</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container event">
+                <div class="event-content">
+                    <div id="event-slide" class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <picture class="splide__slide">
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="event-text">
+                        <h3>AKUT Derneği ile birlikte 12 Kasım Afete Hazırlık Günü kapsamında dijital semineler gerçekleştirdik.</h3>
+                        <p>Uzun yıllardır destekçisi olduğumuz AKUT ile birlikte Afete Hazırlık Günü’ne özel hem çalışanlarımızın hem de müşterilerimizin katılımıyla afetlere karşı hazırlıklı olmak amacıyla seminerler düzenledik. 12-13 Kasım’da AKUT İstanbul ve İzmir seminer ekiplerinin ortak sunumuyla gerçekleşen deprem bilinçlendirme dijital seminerlerini, şirketimize özel bir platformdan gerçekleştirdik. Seminerlerde deprem öncesi, deprem sırası ve deprem sonrasında dikkat edilmesi gereken ve yapılması gereken konular hakkında bilgi edinen katılımcılar, merak ettikleri soruları AKUT ekiplerine yönelterek yanıtlarını birinci ağızdan aldılar.</p>
+                        <p>30 Ekim 2020’de yaşanan depreminin ardından enerji sponsoru olarak desteklediğimiz AKUT’un koordinasyonunda hareket etmiş; bölgede ihtiyaç duyulan malzemelerin tedarikinde destek olmuştuk.</p>
+                        <p>AKUT İzmir Takım Lideri Ramazan Ergut ve AKUT ekipleri, derneğe verilen destek için şirketimize teşekkür ziyaretinde bulundu; teşekkür plaketini şirketimiz adına Pazarlama ve İş Geliştirme Direktörü Gülin Sontuna aldı.</p>
+                    </div>
+                </div>
+                <div class="event-social">
+                    <div class="social">
+                        <span>Bu içeriği paylaş</span>
+                        <a href="/"><i class="icon-facebook"></i></a>
+                        <a href="/"><i class="icon-instagram"></i></a>
+                        <a href="/"><i class="icon-twitter"></i></a>
+                        <a href="/"><i class="icon-linkedin"></i></a>
+                    </div>
+                    <div class="date">26.07.2019 Pazartesi 09.45</div>
+                </div>
+                <h4>Etkinlik Fotoğrafları</h4>                
+                <div class="event-image" id="aniimated-thumbnials">
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                    <div class="event-image-item" href="https://picsum.photos/1920/1080">
+                        <picture><img src="https://picsum.photos/370/370" alt=""></picture>
+                    </div>
+                </div>
+                <div class="event-head">
+                    <h4>Diğer Kurumsal Etkinlikler</h4>
+                    <div class="event-nav public-nav">
+                        <button id="event-otherPrev" class="prev"><i class="icon-left"></i></button>
+                        <button id="event-otherNext" class="next"><i class="icon-right"></i></button>
+                        <a class="button-1 outline" href="#">Tüm Etkinlikler <i class="icon-detail"></i></a>
+                    </div>
+                </div>
+                <div id="event-other" class="event-other splide">
+                    <div class="splide__track">
+                        <div class="splide__list">
+                            <a href="/" class="splide__slide event-other-item">
+                                <picture>
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <div>
+                                    <h5>İyi bir yaşamı desteklemek için koştuk !</h5>
+                                    <h6>26.07.2019 Pazartesi</h6>
+                                </div>
+                            </a>
+                            <a href="/" class="splide__slide event-other-item">
+                                <picture>
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <div>
+                                    <h5>İyi bir yaşamı desteklemek için koştuk !</h5>
+                                    <h6>26.07.2019 Pazartesi</h6>
+                                </div>
+                            </a>
+                            <a href="/" class="splide__slide event-other-item">
+                                <picture>
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <div>
+                                    <h5>İyi bir yaşamı desteklemek için koştuk !</h5>
+                                    <h6>26.07.2019 Pazartesi</h6>
+                                </div>
+                            </a>
+                            <a href="/" class="splide__slide event-other-item">
+                                <picture>
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <div>
+                                    <h5>İyi bir yaşamı desteklemek için koştuk !</h5>
+                                    <h6>26.07.2019 Pazartesi</h6>
+                                </div>
+                            </a>
+                            <a href="/" class="splide__slide event-other-item">
+                                <picture>
+                                    <img src="https://picsum.photos/570/370" alt="">
+                                </picture>
+                                <div>
+                                    <h5>İyi bir yaşamı desteklemek için koştuk !</h5>
+                                    <h6>26.07.2019 Pazartesi</h6>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/lightgallery.min.js"></script>
+    <script src="./js/event.min.js"></script>
+</body>
+
+</html>

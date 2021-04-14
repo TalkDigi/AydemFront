@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Hızlı Borç Sorgula</h5>
+                    <button type="button" class="icon-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body ">
+                    <form action="" class="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="sozlesme" placeholder="Sözleşme Hesap No">
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 d-flex align-items-center justify-content-center">
+                                <img src="images/guvenlik.png" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="govenlik" placeholder="Güvenlik Kodu">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="button-1">Sorgula<i class="icon-detail"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Hizmet Kanallarımız</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Hizmet Kanallarımız</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container page-center">
+                <h3>Müşteri İlişkileri Merkezi</h3>
+                <p>Müşteri işlemlerinizi kolaylıkla yapabileceğiniz size en yakın MİM’i keşfedin.</p>
+                <a href="javascript:void(0)" class="subscriber-item sub-link" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <span>
+                        <h3>En yakın Müşteri İlişkileri Merkezlerimiz</h3>
+                        <p>Size en yakın Müşteri İlişkileri Merkezlerimizi bularak tüm abonelik işlemlerinizi gerçekleştirebilirsiniz.</p>
+                    </span>
+                    <span class="button-1">Tüm MİMler<i class="icon-detail"></i></span>
+                </a>
+                <h3>Talep İlet</h3>
+                <p>Size yardımcı olabileceğiniz konular hakkında bize ulaşın. </p>
+
+                <a href="/" class="subscriber-item sub-link">
+                    <span>
+                        <h3>Talep ve İstekleriniz İçin Buradayız</h3>
+                        <p>Her türlü öneri, talep veya şikayetlerinizi bize kolayca iletebileceğiniz Talep İlet formunu doldurabilirsiniz. Size yardımcı olmak için buradayız.</p>
+                    </span>
+                    <span class="button-1" data-bs-toggle="tooltip" data-bs-placement="top" title="Tooltip on top">Talep İlet<i class="icon-detail"></i></span>
+                </a>
+                <h3>Çağrı Merkezi</h3>
+                <p>7/24 Canlı desteğe ihtiyacınız olduğunda Çağrı Merkezimiz sizin için burada.</p>
+                <a href="/" class="subscriber-item sub-link">
+                    <span>
+                        <h3>7/24 Size Destek İçin Hazırız</h3>
+                        <p>Haftanın 7 günü 24 saat bir telefon kadar yakınınızda olan Çağrı Merkezi ve uzman ekibimiz ihtiyaçlarınızı karşılaşmak için bekliyor.</p>
+                    </span>
+                    <span class="button-1 ">Çağrı Merkezi<i class="icon-detail"></i></span>
+                </a>
+                <h3>WhatsApp İletişim Hattı</h3>
+                <p>Whatsapp İletişim Hattı ile bir mesaj kadar yakınınızdayız.</p>
+                <a href="/" class="subscriber-item sub-link">
+                    <span>
+                        <h3>Bir WhatsApp Mesajı Kadar Yakınız</h3>
+                        <p>Müşteri memnuniyetini ön planda tutarak hayata geçirdiğimiz WhatsApp iletişim hattımız sayesinde müşterilerimize 7/24 daha hızlı iletişim sağlıyoruz.</p>
+                    </span>
+                    <span class="button-1 ">WhatsApp İletişim Hattı<i class="icon-detail"></i></span>
+                </a>
+                <h3>Chatbot</h3>
+                <p>Hızlı ve kolay bir şekilde destek alabileceğiniz Chatbot burada.</p>
+                <a href="/" class="subscriber-item sub-link">
+                    <span>
+                        <h3>Birkaç Soru İle Sorununuzu Çözüyoruz</h3>
+                        <p>Chatbot ile ihtiyacınız olan tüm konularda çözümünüz kolay ve hızlı bir şekilde sonuçlanıyor.</p>
+                    </span>
+                    <span class="button-1 ">Chatbot<i class="icon-detail"></i></span>
+                </a>
+                <div class="channel">
+                    <h3>İş Yerlerine Özel Ek Kanallar</h3>
+                    <p>Yıllık 500.000 kWh ve Üzeri Tüketimi Olan Müşterilerimize Özel Müşteri Temsilcisi Desteği!</p>
+                    <div class="jestek">
+                        <i class="icon-for-work"></i>
+                        <span>
+                            <h4>JESTEK</h4>
+                            <p>(500.000 kWh ve üzeri tüketimi olan müşterilerimize özel jet hızında destek hattımız 0850 800 0 186)</p>
+                        </span>
+                    </div>
+                    <div class="button-wrapper">
+                        <a href="/" class="button-1 outline white">Kurumsal Satış e-Posta<i class="icon-detail"></i></a>
+                        <a href="/" class="button-1 outline white">Kurumsal Satış Hattı<i class="icon-detail"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script>
+        //Tooltip
+        window.addEventListener("load", () => {
+            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+            var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl)
+            })
+        });
+    </script>
+</body>
+
+</html>

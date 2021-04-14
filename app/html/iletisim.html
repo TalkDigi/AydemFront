@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+    <link rel="stylesheet" href="./css/flatpickr.min.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Bize Ulaşın</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Kurumsal</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page pb-0">
+            <div class="container corporate">
+                <div class="page-text">
+                    <h3>Bize Ulaşın</h3>
+                    <p>Soru, Talep ve Önerileriniz için bizimle iletişime geçebilirsiniz. Size yardımcı olmaktan mutluluk duyacağız.</p>
+                </div>
+                <div class="page-contact">
+                    <div class="page-contact-text">
+                        <div class="map">
+                            <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aadc43dc6bd1407a5d4196f09c5c28e9ef8218f291cd5d467634ef7f4b9387e94&amp;width=100%&amp;height=100%&amp;lang=tr_TR&amp;scroll=true"></script>
+                            <a href="/" class="button-1">Müşteri İlişkileri Merkezlerimiz<i class="icon-detail"></i></a>
+                        </div>
+                        <address>
+                            <h3>Aydem Elektrik Perakende Satış A.Ş.</h3>
+                            <a href="/">Adalet Mah. Hasan Gönüllü Blv. No:15/1 20040 Merkezefendi / DENİZLİ</a>
+                            <span>
+                                <a href="/"><i class="icon-mail"></i>bilgi.aydemperakende@aydemenerji.com.tr</a>
+                            </span>
+                            <span>
+                                <a href="tel:+908508000186"><i class="icon-mobile-phone"></i>0850 800 0 186</a>
+                                <a href="https://api.whatsapp.com/send?phone=+908508000186" target="_blank"><i class="icon-whatsapp"></i>0850 800 0 186</a>
+                            </span>
+                        </address>
+                    </div>
+                </div>
+            </div>
+            <section class="bg-dark py-5 mt-5">
+                <div class="form container">
+                    <h3 class="text-white">Hızlı İletişim</h3>
+                    <div class="form-wrapper">
+                        <div class="form-item">
+                            <div class="form-group">
+                                <select class="form-select" aria-label="Default select example" id="iletisim">
+                                    <option selected>İletişim Konusu Seçiniz</option>
+                                    <option value="1">Abonelik</option>
+                                    <option value="2">Yeni Abone</option>
+                                </select>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="isim" placeholder="Adınız Soyadınız">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="abonelik">
+                                            <option selected>Abonelik Türü</option>
+                                            <option value="1">Bireysel</option>
+                                            <option value="2">Kurumsal</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="phone" placeholder="Telefon Numanız">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" name="mail" placeholder="e-Mail Adresiniz">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="taahhuk" placeholder="Taahhuk Fiş No">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="sonodeme" placeholder="Son Ödeme Tarihi">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="fatura">
+                                            <option selected>Fatura Durumu</option>
+                                            <option value="1">Bireysel</option>
+                                            <option value="2">Kurumsal</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="itiraz" placeholder="İtiraz Nedeni / Açıklama">
+                            </div>
+                        </div>
+                        <div class="form-item">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="sozlesme" placeholder="Sözleşme Hesap No">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="sayac">
+                                            <option selected>Sayaç Tipi</option>
+                                            <option value="1">Bireysel</option>
+                                            <option value="2">Kurumsal</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="sayac" placeholder="Sayaç Tipi">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="adresiniz" placeholder="Adresiniz">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="il">
+                                            <option selected>İl Seçiniz</option>
+                                            <option value="1">İstanbul</option>
+                                            <option value="2">Ankara</option>
+                                            <option value="3">İzmir</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <select class="form-select" aria-label="Default select example" id="ilce">
+                                            <option selected>İlçe Seçiniz</option>
+                                            <option value="1">Adalar</option>
+                                            <option value="2">Bağcılar</option>
+                                            <option value="3">Sultangazi</option>
+                                            <option value="3">Sultanbeyli</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <select class="form-select" aria-label="Default select example" id="tercih">
+                                    <option selected>İletişim Tercihi</option>
+                                    <option value="1">Abonelik</option>
+                                    <option value="2">Yeni Abone</option>
+                                </select>
+                            </div>
+                            <div class="form-footer">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                                    <label class="form-check-label text-white" for="flexCheckChecked">
+                                        KVKK Aydınlatma <a href="/">metni’ni okudum</a>, onaylıyorum.
+                                    </label>
+                                </div>
+                                <button class="button-1 outline" href="#">Gönder <i class="icon-detail"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/imask.min.js"></script>
+    <script src="./js/flatpickr.min.js"></script>
+    <script src="./js/flatpickr-tr.min.js"></script>
+    <script>
+        var phoneMask = IMask(
+            document.querySelector('[name="phone"]'), {
+            mask: '+{9\\0}(000)000 00 00'
+        });
+        flatpickr('[name="sonodeme"]', {
+            dateFormat: "d-m-Y",
+            "locale": "tr"
+        });
+        new Choices("#iletisim", {});
+        new Choices("#abonelik", {});
+        new Choices("#fatura", {});
+        new Choices("#sayac", {});
+        new Choices("#tercih", {});
+        new Choices("#il", {});
+        new Choices("#ilce", {});
+    </script>
+</body>
+
+</html>

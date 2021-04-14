@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/AydemPerakende_Header_image.png 992w, images/AydemPerakende_Header_image.png 4000w" src="images/AydemPerakende_Header_image.png">
+            <div class="caption container">
+                <h1>Kartınızı Kişiselleştir</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page py-5">
+            <div class="container">
+                <section class="row mb-5">
+                    <div class="col-lg-6">
+                        <img src="images/carrefour.jpg" class="rounded mb-5">
+                        <div class="share d-flex align-items-center text-muted mb-4 mb-lg-0">
+                            <span class="me-3">Bu içeriği paylaş</span>
+                            <a class="rounded border me-2 p-2 d-flex align-items-center" href="#" target="_blank"><i class="icon-facebook"></i></a>
+                            <a class="rounded border me-2 p-2 d-flex align-items-center" href="#" target="_blank"><i class="icon-instagram"></i></a>
+                            <a class="rounded border me-2 p-2 d-flex align-items-center" href="#" target="_blank"><i class="icon-twitter"></i></a>
+                            <a class="rounded border me-2 p-2 d-flex align-items-center" href="#" target="_blank"><i class="icon-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-muted">
+                        <h5 class="text-primary">Aydem Enerjik Kart’ta Carrefour’da %10 İndirim!</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+                        <ul class="point-list">
+                            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy nibh euismod tincidunt ut laoreet dolore magna.</li>
+                            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy nibh euismod tincidunt ut laoreet dolore magna.</li>
+                        </ul>
+                        <p>Aydem Enerjik Kart’ınıza kredi kartı ile ya da havale / EFT yaparak TL yüklemek için <a href="#" class="text-underline"><u>tıklayınız.</u></a></p>
+                        <p>Aydem Enerjik Kart başvurusu yapmak için <a href="#"><u>tıklayınız.</u></a></p>
+                        <a href="#" class="mt-4 button-2 gradient">Hemen Başvur <i class="icon-detail"></i></a>
+                    </div>
+                </section>
+                <section class="subscriber-item bg-gradient">
+                    <div class="text-light">
+                        <h3>Kart başvurusu için tıkla</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
+                    </div>
+                    <a href="#" class="mt-2 button-2 white">Hemen Başvur <i class="icon-detail"></i></a>
+                </section>
+                <section class="products mt100">
+                    <div class="splide-header">
+                        <div class="w-100">
+                            <h2>Sizin için Seçtiklerimiz</h2>
+                        </div>
+                        <div class="splide-nav">
+                            <button id="productsPrev" class="prev"><i class="icon-left"></i></button>
+                            <button id="productsNext" class="next"><i class="icon-right"></i></button>
+                        </div>
+                    </div>
+                    <div id="products" class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <div class="splide__slide">
+                                    <div class="campaign-item first px-4 pb-4 text-center shadow">
+                                        <div class="p-2 mb-4 border-bottom w-100 text-center">
+                                            <img src="images/svg/Boyner.svg" height="28">
+                                        </div>
+                                        <h4 class="mb-4">%10 İndirim!</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+                                        <a class="mt-auto button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="campaign-item second px-4 pb-4 text-center shadow">
+                                        <div class="p-2 mb-4 border-bottom w-100 text-center">
+                                            <img src="images/svg/Ikea.svg" height="33">
+                                        </div>
+                                        <h4 class="mb-4">%15 İndirim!</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+                                        <a class="mt-auto button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="campaign-item third px-4 pb-4 text-center shadow">
+                                        <div class="p-2 mb-4 border-bottom w-100 text-center">
+                                            <img src="images/svg/Atasay.svg" height="36">
+                                        </div>
+                                        <h4 class="mb-4">%20 İndirim!</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+                                        <a class="mt-auto button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                </div>
+                                <div class="splide__slide">
+                                    <div class="campaign-item third px-4 pb-4 text-center shadow">
+                                        <div class="p-2 mb-4 border-bottom w-100 text-center">
+                                            <img src="images/svg/Ipekyol.svg" height="30">
+                                        </div>
+                                        <h4 class="mb-4">%20 İndirim!</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+                                        <a class="mt-auto button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/product.min.js"></script>
+
+</body>
+
+</html>

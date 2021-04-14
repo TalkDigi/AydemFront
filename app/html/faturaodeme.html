@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Fatura & Ödeme</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">BreadCrumbs</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page py-5">
+            <div class="container">
+                <div class="page-text text-center mb-5">
+                    <h3>Fatura & Ödeme</h3>
+                    <p>Faturalarımızın doğru, şeffaf ve açıklanabilir olması için var gücümüzle çalışıyoruz. Müşterilerimizin aklında bu güveni inşa edebilmek bizim için çok önemli.</p>
+                </div>
+                <div class="page-list mb-5">
+                    <i class="top25 icon-account-number"></i>
+                    <b>Faturamı Nasıl Kontrol Edebilirim?</b>
+                    <p>Faturanızı kontrol etmek için aşağıdaki birkaç kolay adımı takip edebilirsiniz.Fatura Asistanımızı inceleyerek fatura kalemleri hakkında bilgi edinebilirsiniz. (fatura asistanına yönlendirme)</p>
+                    <ul>
+                        <li>Faturanızın kapsadığı dönem aralığını kontrol edin.</li>
+                        <li>Faturalarınızı dip tutara göre değil, tüketim miktarına göre kontrol edin. Bu şekilde tüketiminiz bir rutinde mi gidiyor, önceki aylarla arada fark var mı daha iyi değerlendirebilirsiniz.</li>
+                        <li>Tüketiminizde artış gözlemliyorsanız, son zamanlarda yeni kullanmaya başladığınız bir elektrikli cihaz olup olmadığını, mevsimsel olarak fark yaşanma ihtimali değerlendirin.</li>
+                        <li>Faturanızda güvence bedeli, kesme açma bedeli gibi ek bir kalem olup olmadığını kontrol edin.</li>
+                        <li>Tüm bunlara baktıktan sonra hala kafanızda soru işaretleri var ise, <a href="/iletisim.html">bize iletin</a> inceleyerek sizi bilgilendirelim.</li>
+                        <li>Cihazlarınızın elektrik tüketimlerini hesaplayabilmeniz için geliştirdiğimiz ve elektrik harcamalarınızı düşürebilmeniz için öneriler sunduğumuz <a href="/tasarrufasistani.html">Tasarruf Asistanı</a>mızı kullanarak sürdürülebilir bir gelecek için siz de ilk adımı hemen atabilirsiniz.</li>
+                    </ul>
+                </div>
+                <div class="page-text text-center mb-5">
+                    <h3>Faturamı Nasıl Ödeyebilirim?</h3>
+                    <p>Faturalarınızı kolaylıkla ödeyebilmeniz için ödeme kanallarımızı inceleyebilirsiniz. </p>
+                </div>
+                <div class="page-list mb-5">
+                    <i class="top25 icon-account-number"></i>
+                    <p>Fatura ödemelerinizi hiçbir fiziksel noktaya gitmek zorunda olmadan, Hızlı İşlemler menümüzde yer alan <a href="#">Fatura Öde</a> üzerinden veya <a href="#">Online İşlemler</a> Merkezimizden kolayca gerçekleştirebilirsiniz.</p>
+                    <div class="page-list-accordion mb-5" id="accordionFlushExample">
+                        <div class="page-list-accordion-item">
+                            <button class="page-list-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                Diğer Ödeme Kanallarımız
+                            </button>
+                            <div id="flush-collapseOne" class="collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                <div class="page-list-accordion-body">
+                                    <h4>Aydem Müşteri ilişkileri Merkezi</h4>
+                                    <p>Aydem Müşteri İlişkileri Merkezlerimizde nakit elektrik faturası ödemelerinizde işlem ücreti alınmamaktadır. Ödeme esnasında sözleşme hesap numarası veya faturanıza ihtiyacınız olacaktır.</p>
+                                    <h4>Aydem Müşteri İşlemleri Merkezleri:</h4>
+                                    <div class="d-flex flex-wrap flex-lg-nowrap">
+                                        <div class="mb-2 mb-lg-0 me-lg-2">
+                                            <select class="form-select" id="city">
+                                                <option selected>il Seç</option>
+                                                <option value="0">Option 1</option>
+                                                <option value="1">Option 2</option>
+                                            </select>
+                                        </div>
+                                        <select class="form-select" id="town">
+                                            <option selected>ilce Seç</option>
+                                            <option value="0">Option 1</option>
+                                            <option value="1">Option 2</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="page-list-accordion-item">
+                            <button class="page-list-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                Online İşlemler Merkezi
+                            </button>
+                            <div id="flush-collapseTwo" class="collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                <div class="page-list-accordion-body">
+                                    <p>Elektrik faturalarınızı Online İşlemler Merkezi’ne üye girişi yaptıktan sonra, kredi kartı ile ödeyebilirsiniz. Bir önceki yıla ilişkin elektrik tüketim miktarınız ve bu miktarın TL karşılığı bedeline Online İşlemler Merkezi’nden üye girişi yaparak ulaşabilirsiniz.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="page-list-item mb-3">
+                        <h5>Anlaşmalı Bankalar</h5>
+                        <p>9ANLAŞMALI BANKALAR Elektrik faturası ödemelerinizi anlaşmalı bankalardan ödeyebilirsiniz. Aynı zamanda anlaşmalı bankalarımızın ATM, internet, mobil uygulama, telefon kanalları üzerinden veya veznelerinden de ödemelerinizi gerçekleştirebilirsiniz. Müşterisi olduğunuz bankaya Sözleşme Hesap Numaranızı belirterek otomatik ödeme talimatı verebilirsiniz.Ödeme işleminizi gerçekleştirirken sözleşme hesap numaranıza veya faturanıza ihtiyacınız olacaktır. Ödeme şekli tercihinize göre anlaşmalı bankalarımızın listesine aşağıdan ulaşabilirsiniz.</p>
+                        <select class="form-select" id="catagory">
+                            <option selected>Kategori Seç</option>
+                            <option value="0">Option 1</option>
+                            <option value="1">Option 2</option>
+                        </select>
+                    </div>
+                    <div class="page-list-item mb-3">
+                        <h5>PTT</h5>
+                        <p>Elektrik faturası ödemelerinizi PTT şubelerinden, fatura tutarınız haricinde ilave bir ücret ödemeden kolayca yapabilirsiniz. Ödeme işleminizi gerçekleştirirken sözleşme hesap numaranıza veya faturanıza ihtiyacınız olacaktır.</p>
+                    </div>
+                </div>
+                <div class="subscriber-item bg-gradient mb-5">
+                    <span>
+                        <h3>Tasarruf Asistanı </h3>
+                        <p>Evdeki cihazlarınızın elektrik tüketimlerini hesaplayabilmeniz adına geliştirdiğimiz ve elektrik harcamalarınızı düşürebilmeniz adına öneriler sunduğumuz Tasarruf Asistanı ‘nı kullanarak sürdürülebilir bir gelecek için siz de ilk adımı hemen atabilirsiniz. </p>
+                    </span>
+                    <a href="#" class="bg-gradient-button">Tasarruf Asistanı <i class="icon-detail"></i></a>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script>
+        new Choices("#catagory", {});
+        new Choices("#city", {});
+        new Choices("#town", {});
+    </script>
+</body>
+
+</html>

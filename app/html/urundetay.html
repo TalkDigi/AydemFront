@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/splide.min.css">
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Enerji Kimlik Belgesi</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Ürünler</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container">
+                <div class="event">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="event-text pe-lg-3">
+                                <h3>Enerjik Kart’ın gücünü kullan!</h3>
+                                <p>Enerjik Kart’la akaryakıttan giyime, marketten eğitime sayısız alışverişte Türkiye’nin en iyi markalarından anında indirim kazanın, ek ücret ödemeden bütün ATM’lerde kullanın.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form">
+                                <h3>Hemen Başvur!</h3>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="isim" placeholder="İsim Soyisim / Şirket Ünvanı">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="tc" placeholder="Tc Kimlik No / Vergi Kimlik No">
+                                </div>
+                                <div class="form-group">
+                                    <label>Yetkili Telefon No:</label>
+                                    <input type="text" class="form-control" name="phone" placeholder="+90  _ _ _  _ _ _  _ _  _ _">
+                                </div>
+                                <div class="form-group">
+                                    <label>Yetkili e-Mail Adresi:</label>
+                                    <input type="email" class="form-control" name="email" placeholder="_________@_________">
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <select class="form-select" aria-label="Default select example" id="il">
+                                                <option selected>İl Seçiniz</option>
+                                                <option value="1">İstanbul</option>
+                                                <option value="2">Ankara</option>
+                                                <option value="3">İzmir</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <select class="form-select" aria-label="Default select example" id="ilce">
+                                                <option selected>İlçe Seçiniz</option>
+                                                <option value="1">Adalar</option>
+                                                <option value="2">Bağcılar</option>
+                                                <option value="3">Sultangazi</option>
+                                                <option value="3">Sultanbeyli</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-footer">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                                        <label class="form-check-label" for="flexCheckChecked">
+                                            KVKK Aydınlatma <a href="/">metni’ni okudum</a>, onaylıyorum.
+                                        </label>
+                                    </div>
+                                    <button class="button-1 outline" href="#">Başvur <i class="icon-detail"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <nav class="nav page-tabs">
+                    <a class="nav-link active" aria-current="page" href="#home" data-bs-toggle="tab">Detaylı Bilgi</a>
+                    <a class="nav-link" href="#profile" data-bs-toggle="tab">Sıkça Sorulan Sorular</a>
+                </nav>
+                <div class="tab-content page-tabs-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <div class="accordion">
+                            <input type="radio" name="radiocheck" checked id="radio1">
+                            <label class="accordion-item" for="radio1">
+                                <h2>Kampanya başvurusu nereden yapılır?</h2>
+                                <div class="accordion-inner">
+                                    <p>Kampanyaya katılan müşterilerimize Aralık 2021’de elektrik enerjisi tüketim bedelini hediye edeceğiz. Hediye edilecek fatura tüketim miktarı, müşterinin Aralık ayına kadar olan ortalama tüketim miktarı olup, müşteriler ilgili ay için sadece ortalama tüketim miktarının varsa aşan kısmını, dağıtım bedelini ve vergi ödemelerini gerçekleştireceklerdir.</p>
+                                </div>
+                            </label>
+                            <input type="radio" name="radiocheck" id="radio2">
+                            <label class="accordion-item" for="radio2">
+                                <h2>EPDK’dan Yeni Fatura Uygulamasına ve Dağıtım Bedeline ilişkin Açıklama</h2>
+                                <div class="accordion-inner">
+                                    <p>Enerji Piyasası Düzenleme Kurumu’nun (EPDK) 23/07/2019 tarihli açıklamasında, ulusal tarifeden elektrik satın alan tüketicilere uygulanmak üzere ülke genelinde sade, anlaşılabilir ve gereksiz içerikten arındırılmış “kolay fatura” uygulamasına geçildiği belirtilmiştir. Söz konusu uygulama, basın açıklamasında da belirtildiği üzere, ulusal ulusal tarifeden elektrik satın alan, yani Perakende Satış Sözleşmesi olan müşterilerimiz için geçerlidir.</p>
+                                    <p>Uygulama, serbest tüketici niteliğini haiz olup Şirketimizle İndirimli Elektrik Sözleşmesi (İkili Anlaşma) yapan müşterilerimizi kapsamamaktadır. Ne var ki, serbest tüketici niteliğini haiz müşterilerimiz tarafından faturanın fiziki olarak talebi hâlinde, gönderilecek fatura görselinde aktif enerji bedeli ve dağıtım bedeli toplamı “Enerji Tüketim Bedeli” olarak yer alabilecektir. Mevcut İkili Anlaşma kapsamında taahhüt edilen indirim, sadece aktif enerji birim bedeline (perakende satış bedeli) ilişkin olup dağıtım bedelinden indirim yapılması söz konusu değildir.</p>
+                                    <p>EPDK’nın yaptığı açıklamanın tam metnine ulaşmak için lütfen <a href="/">TIKLAYIN.</a></p>
+                                    <p>Müşterilerimizin bilgisine sunarız.</p>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                        <div class="page-list">
+                            <ul>
+                                <li>Enerji verimi yüksek A sınıfı bulaşık makinesi, D sınıfı bulaşık makinesine göre %32, G sınıfına göre ise %48 enerji tasarrufu sağlar.</li>
+                                <li>Bulaşık makinenizin etrafında en az 5 cm boşluk bıraktığınızda, makineniz daha az ısınır ve daha az enerji harcar.</li>
+                                <li>Bulaşık makinenizi, kapasiteyi aşmayacak şekilde, tam dolulukta çalıştırın.</li>
+                                <li>Az miktarda bulaşık yıkarken ekonomik programları tercih edin.</li>
+                                <li>Ön yıkama programlarını sadece gerekli olduğu durumlarda tercih edin.</li>
+                                <li>Bulaşıkları yıkarken suyun sıcaklığını 60 derece yerine 50 derece olarak ayarlarsanız %10 daha az enerji tüketirsiniz.</li>
+                                <li>Makinenizi son durulamadan sonra kapatıp makine kapağını açık bırakarak bulaşıkları kurutursanız daha az enerji tüketirsiniz.</li>
+                            </ul>
+                        </div>
+                        <div class="page-list-two">
+                            <h3>İş Yeri Sigorta Paketi Detayları</h3>
+                            <ul>
+                                <li>Enerji verimi yüksek A sınıfı bulaşık makinesi, D sınıfı bulaşık makinesine göre %32, G sınıfına göre ise %48 enerji tasarrufu sağlar.</li>
+                                <li>Bulaşık makinenizin etrafında en az 5 cm boşluk bıraktığınızda, makineniz daha az ısınır ve daha az enerji harcar.</li>
+                                <li>Bulaşık makinenizi, kapasiteyi aşmayacak şekilde, tam dolulukta çalıştırın.</li>
+                                <li>Az miktarda bulaşık yıkarken ekonomik programları tercih edin.</li>
+                                <li>Ön yıkama programlarını sadece gerekli olduğu durumlarda tercih edin.</li>
+                                <li>Bulaşıkları yıkarken suyun sıcaklığını 60 derece yerine 50 derece olarak ayarlarsanız %10 daha az enerji tüketirsiniz.</li>
+                                <li>Makinenizi son durulamadan sonra kapatıp makine kapağını açık bırakarak bulaşıkları kurutursanız daha az enerji tüketirsiniz.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <section class="products mt100">
+                    <div class="splide-header">
+                        <div class="w-100">
+                            <h2>Sizin için Seçtiklerimiz</h2>
+                        </div>
+                        <div class="splide-nav">
+                            <button id="productsPrev" class="prev"><i class="icon-left"></i></button>
+                            <button id="productsNext" class="next"><i class="icon-right"></i></button>
+                            <a href="#">Tüm ürünler<i class="icon-detail"></i></a>
+                        </div>
+                    </div>
+                    <div id="products" class="splide">
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <div class="splide__slide bigone first">
+                                    <div class="splide__caption">
+                                        <div class="badge rounded-pill">YENİ</div>
+                                        <h4>Öne Çıkan Ürün Sıra 01</h4>
+                                        <p>Lorem ipsum dolor sit amet</p>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                        <img src="https://picsum.photos/420/380" alt="">
+                                    </div>
+                                </div>
+                                <div class="splide__slide second">
+                                    <div class="splide__caption">
+                                        <div class="badge rounded-pill">FIRSAT</div>
+                                        <h4>Öne Çıkan Ürün Sıra 01</h4>
+                                        <p>Lorem ipsum dolor sit amet</p>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                        <img src="https://picsum.photos/420/380" alt="">
+                                    </div>
+                                </div>
+                                <div class="splide__slide third">
+                                    <div class="splide__caption">
+                                        <div class="badge rounded-pill">YENİ</div>
+                                        <h4>Öne Çıkan Ürün Sıra 01</h4>
+                                        <p>Lorem ipsum dolor sit amet</p>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                        <img src="https://picsum.photos/420/380" alt="">
+                                    </div>
+                                </div>
+                                <div class="splide__slide second">
+                                    <div class="splide__caption">
+                                        <div class="badge rounded-pill">FIRSAT</div>
+                                        <h4>Öne Çıkan Ürün Sıra 01</h4>
+                                        <p>Lorem ipsum dolor sit amet</p>
+                                        <a class="button-1 outline" href="#">Detaylar <i class="icon-detail"></i></a>
+                                        <img src="https://picsum.photos/420/380" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+    <script src="./js/product.min.js"></script>
+    <script src="./js/imask.min.js"></script>
+    <script>
+        var phoneMask = IMask(
+            document.querySelector('[name="phone"]'), {
+            mask: '+{9\\0}(000)000 00 00'
+        });
+        new Choices("#il", {});
+        new Choices("#ilce", {});
+    </script>
+</body>
+
+</html>

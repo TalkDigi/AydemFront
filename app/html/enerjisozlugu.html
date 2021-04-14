@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    @@include('./shared/meta.html')
+    <link rel="stylesheet" href="./css/page.css">
+</head>
+
+<body>
+    @@include('./shared/header.html')
+    <main>
+        <div class="jumbotron">
+            <img srcset="images/Hakkimizda-bg-mobil.png 992w, /images/page-image-1.png 4000w" src="/images/page-image-1.png">
+            <div class="caption container">
+                <h1>Enerji Sözlüğü</h1>
+                <!-- <h2></h2> -->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Enerji Sözlüğü</li>
+                </ol>
+            </div>
+        </div>
+        <div class="page">
+            <div class="container corporate">
+                <div class="page-text">
+                    <h3>Enerji Terimleri Sözlüğü</h3>
+                    <h4>Enerji terimlerinin açıklamaları, kullanım yerleri ve hesaplama yöntemleri için hazırlanmış sözlüğümüz ile terimleri okumanız daha kolay.</h4>
+                    <div class="simple-item">
+                        <h4>Aktif Enerji</h4>
+                        <p>Aktif gücün zaman ile çarpımından elde edilen elektrik enerjisidir. Ölçü birimi kWh olarak kabul edilir.</p>
+                    </div>
+                    <div class="simple-item">
+                        <h4>Aktif Güç</h4>
+                        <p>Şebekeden çekilen akım ile gerilim arasındaki açının kosinüsü ile akım ve gerilimin çarpılması durumunda oluşan güç bileşenidir.<br>Hesaplama Yöntemi :  Aktif Güç = Akım * Gerilim * Cos</p>
+                    </div>
+                    <div class="simple-item">
+                        <h4>Organize Toptan Elektrik Piyasası</h4>
+                        <p>Elektrik enerjisi, kapasitesi veya perakende alış satışının gerçekleştirildiği ve piyasa işletim lisansına sahip merkezî bir aracı tüzel kişilik tarafından organize edilip işletilen gün öncesi piyasası, gün içi piyasası ile sermaye piyasası aracı niteliğindeki standardize edilmiş elektrik sözleşmelerinin ve dayanağı elektrik enerjisi ve / veya kapasitesi olan türev ürünlerin işlem gördüğü ve Borsa İstanbul Anonim Şirketi tarafından işletilen piyasaları ve Türkiye Elektrik İletim Anonim Şirketi tarafından organize edilip işletilen dengeleme güç piyasası ve yan hizmetler piyasası gibi elektrik piyasalarını ifade eder.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @@include('./shared/footer.html')
+</body>
+
+</html>
